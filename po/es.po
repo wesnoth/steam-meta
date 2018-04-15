@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Wesnoth, Inc.
+# This file is distributed under the same license as the wesnoth-steam-meta package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
+"POT-Creation-Date: 2018-04-15 05:44-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: app_metadata.txt:2
+msgid "#### STEAM - SUMMARY ####"
+msgstr ""
+
+#. type: Plain text
+#: app_metadata.txt:4
+msgid ""
+"The Battle for Wesnoth is an open source, turn-based strategy game with a "
+"high fantasy theme. It features both singleplayer and online/hotseat "
+"multiplayer combat."
+msgstr ""
+
+#. type: Plain text
+#: app_metadata.txt:6
+msgid "#### STEAM - DESCRIPTION ####"
+msgstr ""
+
+#. type: Plain text
+#: app_metadata.txt:8
+msgid ""
+"Explore the world of Wesnoth and take part in its many adventures! Embark on "
+"a desperate quest to reclaim your rightful throne... Flee the Lich Lords to "
+"a new home across the sea... Delve into the darkest depths of the earth to "
+"craft a jewel of fire itself... Defend your kingdom against the ravaging "
+"hordes of a foul necromancer... Or lead a straggly band of survivors across "
+"the blazing sands to confront an unseen evil."
+msgstr ""
+
+#. type: Plain text
+#: app_metadata.txt:9
+msgid "The choice is up to you..."
+msgstr ""
