@@ -17,7 +17,7 @@ OUTPUT_SH := app_metadata.*.txt
 OUTPUTS := $(foreach lang, $(LANGUAGES), $(shell echo $(TEMPLATE) | sed -r 's/\.txt$$/.$(lang).txt/'))
 OUTPUT_STAMP := $(addprefix $(STAMPDIR)/, $(foreach lang, $(LANGUAGES), $(shell echo $(TEMPLATE) | sed -r 's/\.txt$$/.$(lang).txt/')))
 
-PO4A_OPTIONS         = -f text -M utf-8
+PO4A_OPTIONS         = -f text -M utf-8 -o neverwrap
 PO4A_CATALOGUE_META  = --copyright-holder 'Wesnoth, Inc.' --package-name '$(DOMAIN)' --package-version 1.0.0
 # Do not change. This is deliberate.
 PO4A_THRESHOLD       = 100
