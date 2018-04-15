@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-15 05:40-0300\n"
-"PO-Revision-Date: 2018-04-15 05:42-0300\n"
+"POT-Creation-Date: 2018-04-15 06:05-0300\n"
+"PO-Revision-Date: 2018-04-15 06:09-0300\n"
 "Last-Translator: Iris Morelle <shadowm2006@gmail.com>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
 "Language: es\n"
@@ -18,8 +18,8 @@ msgstr ""
 
 #. type: Plain text
 #: app_metadata.txt:2
-msgid "#### STEAM - SUMMARY ####"
-msgstr "#### STEAM - RESUMEN ####"
+msgid "######## SUMMARY ########"
+msgstr "######## STEAM - RESUMEN ########"
 
 #. type: Plain text
 #: app_metadata.txt:4
@@ -28,19 +28,17 @@ msgid ""
 "high fantasy theme. It features both singleplayer and online/hotseat "
 "multiplayer combat."
 msgstr ""
-"La Batalla for Wesnoth es un juego de estrategia basado en turnos de código"
-" abierto "
-"con un tema de alta fantasía. Incluye modos de juego de un solo jugador, y"
-" combate "
-"multijugador en línea o hotseat."
+"La Batalla for Wesnoth es un juego de estrategia basado en turnos de código "
+"abierto con un tema de alta fantasía. Incluye modos de juego de un solo "
+"jugador, y combate multijugador en línea o hotseat."
 
 #. type: Plain text
-#: app_metadata.txt:6
-msgid "#### STEAM - DESCRIPTION ####"
-msgstr "#### STEAM - DESCRIPCIÓN ####"
+#: app_metadata.txt:7
+msgid "######## DESCRIPTION ########"
+msgstr "######## STEAM - DESCRIPCIÓN ########"
 
 #. type: Plain text
-#: app_metadata.txt:8
+#: app_metadata.txt:9
 msgid ""
 "Explore the world of Wesnoth and take part in its many adventures! Embark on "
 "a desperate quest to reclaim your rightful throne... Flee the Lich Lords to "
@@ -49,16 +47,100 @@ msgid ""
 "hordes of a foul necromancer... Or lead a straggly band of survivors across "
 "the blazing sands to confront an unseen evil."
 msgstr ""
-"¡Explore el mundo de Wesnoth y sea parte de sus varias aventuras! Embárquese"
-" en una misión desesperada para reclamar su trono legítimo... Huya de los"
-" Señores Liches en busca de un nuevo hogar a través del océano... Adéntrese"
-" en los pozos más profundos de la tierra para forjar una joya de fuego"
-" ardiente... Defienda su reino de su devastación por las hordas de un vil"
-" nigromante... O lidere a una precaria banda de sobrevivientes a través de"
-" las arenas ardientes para confrontar un mal jamás visto."
+"¡Explore el mundo de Wesnoth y sea parte de sus varias aventuras! Embárquese "
+"en una misión desesperada para reclamar su trono legítimo... Huya de los "
+"Señores Liches en busca de un nuevo hogar a través del océano... Adéntrese "
+"en los pozos más profundos de la tierra para forjar una joya de fuego "
+"ardiente... Defienda su reino de su devastación por las hordas de un vil "
+"nigromante... O lidere a una precaria banda de sobrevivientes a través de "
+"las arenas ardientes para confrontar un mal jamás visto."
 
 #. type: Plain text
-#: app_metadata.txt:9
+#: app_metadata.txt:11
 msgid "The choice is up to you..."
 msgstr "La elección es suya..."
+
+#. type: Plain text
+#: app_metadata.txt:14
+msgid "######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########"
+msgstr "######## PLATAFORMAS SOPORTADAS - REQUISITOS MÍNIMOS ########"
+
+#. type: Plain text
+#: app_metadata.txt:16 app_metadata.txt:41
+msgid "#### OS VERSION ####"
+msgstr "#### VERSIÓN DE SO ####"
+
+#. type: Plain text
+#: app_metadata.txt:18
+msgid "Windows 7 SP1 or later"
+msgstr "Windows 7 SP1 o posterior"
+
+#. type: Plain text
+#: app_metadata.txt:20
+msgid "OS X 10.8 or later"
+msgstr "OS X 10.8 o posterior"
+
+#. type: Plain text
+#: app_metadata.txt:22
+msgid "Ubuntu 14.04 or compatible"
+msgstr "Ubuntu 14.04 o compatible"
+
+#. type: Plain text
+#: app_metadata.txt:24 app_metadata.txt:49
+#| msgid "#### STEAM - SUMMARY ####"
+msgid "#### PROCESSOR ####"
+msgstr "#### PROCESADOR ####"
+
+#. type: Plain text
+#: app_metadata.txt:26 app_metadata.txt:28 app_metadata.txt:30
+msgid "Dual-core 2.0 GHz or better"
+msgstr "Doble núcleo 2.0 GHz o mejor"
+
+#. type: Plain text
+#: app_metadata.txt:32 app_metadata.txt:57
+msgid "#### GRAPHICS ####"
+msgstr "#### GRÁFICOS ####"
+
+#. type: Plain text
+#: app_metadata.txt:34 app_metadata.txt:59
+#| msgid "#### STEAM - SUMMARY ####"
+msgid "#### SOUND CARD ####"
+msgstr "#### TARJETA DE SONIDO ####"
+
+#. type: Plain text
+#: app_metadata.txt:36 app_metadata.txt:61
+#| msgid "#### STEAM - DESCRIPTION ####"
+msgid "#### ADDITIONAL NOTES ####"
+msgstr "#### NOTAS ADICIONALES ####"
+
+#. type: Plain text
+#: app_metadata.txt:39
+#| msgid "######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########"
+msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########"
+msgstr "######## PLATAFORMAS SOPORTADAS - REQUISITOS RECOMENDADOS ########"
+
+#. type: Plain text
+#: app_metadata.txt:43
+msgid "Windows 10"
+msgstr "Windows 10"
+
+#. type: Plain text
+#: app_metadata.txt:45
+msgid "Ubuntu 16.04 or compatible"
+msgstr "Ubuntu 16.04 o compatible"
+
+#. type: Plain text
+#: app_metadata.txt:47
+msgid "macOS 10.10 or later"
+msgstr "macOS 10.10 o posterior"
+
+#. type: Plain text
+#: app_metadata.txt:51 app_metadata.txt:53 app_metadata.txt:55
+msgid "Dual-core 3.2 GHz or better"
+msgstr "Doble núcleo 3.2 GHz o mejor"
+
+#. type: Plain text
+#: app_metadata.txt:63
+msgid "######## LEGAL INFORMATION ########"
+msgstr "######## INFORMACIÓN LEGAL ########"
 

@@ -1,10 +1,11 @@
-#### STEAM - RESUMEN ####
+######## STEAM - RESUMEN ########
 
 La Batalla for Wesnoth es un juego de estrategia basado en turnos de código
 abierto con un tema de alta fantasía. Incluye modos de juego de un solo
 jugador, y combate multijugador en línea o hotseat.
 
-#### STEAM - DESCRIPCIÓN ####
+
+######## STEAM - DESCRIPCIÓN ########
 
 ¡Explore el mundo de Wesnoth y sea parte de sus varias aventuras! Embárquese
 en una misión desesperada para reclamar su trono legítimo... Huya de los
@@ -15,3 +16,56 @@ nigromante... O lidere a una precaria banda de sobrevivientes a través de
 las arenas ardientes para confrontar un mal jamás visto.
 
 La elección es suya...
+
+
+######## PLATAFORMAS SOPORTADAS - REQUISITOS MÍNIMOS ########
+
+#### VERSIÓN DE SO ####
+
+Windows 7 SP1 o posterior
+
+OS X 10.8 o posterior
+
+Ubuntu 14.04 o compatible
+
+#### PROCESADOR ####
+
+Doble núcleo 2.0 GHz o mejor
+
+Doble núcleo 2.0 GHz o mejor
+
+Doble núcleo 2.0 GHz o mejor
+
+#### GRÁFICOS ####
+
+#### TARJETA DE SONIDO ####
+
+#### NOTAS ADICIONALES ####
+
+
+######## PLATAFORMAS SOPORTADAS - REQUISITOS RECOMENDADOS ########
+
+#### VERSIÓN DE SO ####
+
+Windows 10
+
+Ubuntu 16.04 o compatible
+
+macOS 10.10 o posterior
+
+#### PROCESADOR ####
+
+Doble núcleo 3.2 GHz o mejor
+
+Doble núcleo 3.2 GHz o mejor
+
+Doble núcleo 3.2 GHz o mejor
+
+#### GRÁFICOS ####
+
+#### TARJETA DE SONIDO ####
+
+#### NOTAS ADICIONALES ####
+
+
+######## INFORMACIÓN LEGAL ########
