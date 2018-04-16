@@ -1,0 +1,63 @@
+######## ZUSAMMENFASSUNG ########
+
+Battle for Wesnoth ist ein rundenbasiertes Strategiespiel mit mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch eine Mehrspielermodus.
+
+
+######## ÜBER DAS SPIEL ########
+
+Entdecke die Wesnoth und werde Teil der vielen Abenteuer! Begebe dich auf eine verzweifelte Reise um deinen rechtmäßigen Thron zurückzuholen... Fliehe vor den Lich Lords über einen weiten Ozean in eine neue Heimat... Steige in die dunkelsten Tiefen der Erde um das Juwel des Feuers zu schmieden... Verteidige dein Königreich gegen die wütenden Horden der Nekromanten... Oder führe eine Gruppe Überlebender durch eine unwirtliche Wüste um das Böse selbst zu konfrontieren.
+
+Du hast die Wahl...
+
+
+######## SYSTEMANFORDERUNGEN - MINIMUM ########
+
+#### BETRIEBSSYSTEM ####
+
+Windows 7 SP1 oder neuer
+
+OS X 10.8 oder neuer
+
+Ubuntu 14.04 oder gleichwertiges
+
+#### PROZESSOR ####
+
+Dual-core 2.0 GHz oder besser
+
+Dual-core 2.0 GHz oder besser
+
+Dual-core 2.0 GHz oder besser
+
+#### GRAFIK ####
+
+#### SOUNDKARTE ####
+
+#### ZUSÄTZLICHE ANMERKUNGEN ####
+
+
+######## SYSTEMANFORDERUNGEN - EMPFOHLEN ########
+
+#### BETRIEBSSYSTEM ####
+
+Windows 10
+
+Ubuntu 16.04 oder gleichwertiges
+
+macOS 10.10 oder neuer
+
+#### PROZESSOR ####
+
+Dual-core 3.2 GHz oder besser
+
+Dual-core 3.2 GHz oder besser
+
+Dual-core 3.2 GHz oder besser
+
+#### GRAFIK ####
+
+#### SOUNDKARTE ####
+
+#### ZUSÄTZLICHE ANMERKUNGEN ####
+
+
+######## RECHTLICHE HINWEISE ########
