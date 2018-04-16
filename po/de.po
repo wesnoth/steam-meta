@@ -24,7 +24,7 @@ msgstr "######## ZUSAMMENFASSUNG ########\n"
 #: app_metadata.txt:4
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.\n"
-msgstr "Battle for Wesnoth ist ein rundenbasiertes Strategiespiel mit mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch eine Mehrspielermodus.\n"
+msgstr "Battle for Wesnoth ist ein rundenbasiertes Strategiespiel mit mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch einen Mehrspielermodus.\n"
 
 #. type: Plain text
 #: app_metadata.txt:7

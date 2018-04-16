@@ -1,6 +1,6 @@
 ######## ZUSAMMENFASSUNG ########
 
-Battle for Wesnoth ist ein rundenbasiertes Strategiespiel mit mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch eine Mehrspielermodus.
+Battle for Wesnoth ist ein rundenbasiertes Strategiespiel mit mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch einen Mehrspielermodus.
 
 
 ######## ÜBER DAS SPIEL ########
