@@ -1,11 +1,11 @@
 ######## ZUSAMMENFASSUNG ########
 
-Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch einen Mehrspielermodus.
+Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch einen Mehrspielermodus.
 
 
 ######## ÜBER DAS SPIEL ########
 
-Entdecke die Welt von Wesnoth und werde Teil der vielen Abenteuer! Begebe dich auf eine verzweifelte Reise um deinen rechtmäßigen Thron zurückzuholen... Fliehe vor den Lich Lords über einen weiten Ozean in eine neue Heimat... Steige in die dunkelsten Tiefen der Erde um das Juwel des Feuers zu schmieden... Verteidige dein Königreich gegen die wütenden Horden der Nekromanten... Oder führe eine Gruppe Überlebender durch eine unwirtliche Wüste um das Böse selbst zu konfrontieren.
+Entdecke die Welt von Wesnoth und werde Teil ihrer vielen Abenteuer! Begib dich auf eine verzweifelte Reise um deinen rechtmäßigen Thron zurückzuholen... Fliehe vor den Lich Lords über einen weiten Ozean in eine neue Heimat... Steige in die dunkelsten Tiefen der Erde um das Juwel des Feuers zu schmieden... Verteidige dein Königreich gegen die wütenden Horden der Totenbeschwörer... Oder führe eine Gruppe Überlebender durch eine unwirtliche Wüste um ein unbekanntes Übel zu konfrontieren.
 
 Du hast die Wahl...
 
