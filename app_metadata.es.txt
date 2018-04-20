@@ -9,7 +9,7 @@ La Batalla for Wesnoth es un juego de estrategia basado en turnos de código abi
 
 Luego, ¡embárquese en nuevas batallas en línea! ¡Escoja de entre siete facciones completamente balanceadas y luche contra sus amigos en más de 60 maps multijugador para grupos de diversos tamaños!
 
-¡Ponga a prueba sus habilidades para crear su propio contenido! Wesnoth incluye su propio editor de mapas, un motor de juego altamente modificable, un lenguaje de programación simple e intuitivo, y una amistosa comunidad de creadores llenos de dedicación. ¡Nadie se imagina qué aventuras hará realidad! Pruebe de entre los cientos de campañas, mapas y facciones creados por la comunidad tanto para modos de un solo jugador y multijugador.
+¡Explore los cientos de campañas, mapas y facciones creados por la comunidad tanto para modos de un solo jugador y multijugador, y ponga a prueba sus habilidades para crear su propio contenido! Wesnoth incluye su propio editor de mapas, un motor de juego altamente modificable, un lenguaje de programación simple e intuitivo, y una amistosa comunidad de creadores llenos de dedicación. ¡Nadie se imagina qué aventuras hará realidad!
 
 
 ######## PLATAFORMAS SOPORTADAS - REQUISITOS MÍNIMOS ########
