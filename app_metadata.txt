@@ -9,7 +9,7 @@ The Battle for Wesnoth is an open source, turn-based strategy game with a high f
 
 Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 60 multiplayer maps for parties of all sizes!
 
-Try your hand at crafting your own creations! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life! Try out some of the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer.
+Explore the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!
 
 
 ######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########
