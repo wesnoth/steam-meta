@@ -5,9 +5,11 @@ Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit
 
 ######## ÜBER DAS SPIEL ########
 
-Entdecke die Welt von Wesnoth und werde Teil ihrer vielen Abenteuer! Begib dich auf eine verzweifelte Reise um deinen rechtmäßigen Thron zurückzuholen... Fliehe vor den Lich Lords über einen weiten Ozean in eine neue Heimat... Steige in die dunkelsten Tiefen der Erde um das Juwel des Feuers zu schmieden... Verteidige dein Königreich gegen die wütenden Horden der Totenbeschwörer... Oder führe eine Gruppe Überlebender durch eine unwirtliche Wüste um ein unbekanntes Übel zu konfrontieren.
+Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit Fantasy-Elementen. Von den Feldern Weldyns zu den Wäldern Wesmere, von den Minen Knalgas zu den hohen Gipfeln des Erzgebirges, sei Teil dutzender Abenteuer über mehrere Jahrhunderte. Spiele als ein junger Prinz auf der FLucht über einen weiten Ozean in eine neue Heimat vor den vordringenden Armeen der Lich Lords... Steige in die dunkelsten Tiefen der Erde um das Juwel des Feuers zu schmieden... Bereise die Welt auf einer waghalsigen Mission um deinen rechtmäßigen Thron zurückzuholen... Schlüpf in die Rolle eines jungen Magiers, sein Dorf von Orks bedroht, der nach Rache und Unsterblichkeit strebt... Bekämpfe die untoten Horden eines Totenbeschwörer, die in Richtung deiner Hauptstadt marschieren... Führe eine Gruppe Überlebender durch eine unwirtliche Wüste zur finalen Konfrontation eines unbekannten Übels... Du hast die Wahl.
 
-Du hast die Wahl...
+Führe den Kampf Online weiter! Wähle von sieben ausgeglichenen Fraktionen und spiele mit deinen Freunden auf über 60 Mehrspielerkarten für Gruppen jeder Größe!
+
+Du kannst auch eigene Sachen erschaffen! Battle for Wesnoth besitzt einen eingebauten Karteneditor, eine modifizierbare Engine, eine einfache und intuitive Skriptsprache und eine freundliche sowie engagierte Gemeinschaft. Lass deiner Fantasie freien Lauf! Du kannst auch einige der vielen von der Gemeinschaft erstellten Kampanien, Karten und Fraktionen für Einzel- sowie Mehrspielermodus probieren.
 
 
 ######## SYSTEMANFORDERUNGEN - MINIMUM ########
