@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-15 06:27-0300\n"
+"POT-Creation-Date: 2018-04-20 06:05-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,112 +41,134 @@ msgstr ""
 #: app_metadata.txt:9
 #, no-wrap
 msgid ""
-"Explore the world of Wesnoth and take part in its many adventures! Embark on "
-"a desperate quest to reclaim your rightful throne... Flee the Lich Lords to "
-"a new home across the sea... Delve into the darkest depths of the earth to "
-"craft a jewel of fire itself... Defend your kingdom against the ravaging "
-"hordes of a foul necromancer... Or lead a straggly band of survivors across "
-"the blazing sands to confront an unseen evil.\n"
+"The Battle for Wesnoth is an open source, turn-based strategy game with a "
+"high fantasy theme. From the plains of Weldyn to the forests of Wesmere, "
+"from the mines of Knalga to the soaring peaks of the Heart Mountains, take "
+"part in over a dozen adventures spanning centuries! Play as a young prince "
+"as he flees the encroaching forces of the Lich Lords to a new home across "
+"the sea... Delve into the blackest depths of the earth to craft a jewel of "
+"fire itself... Travel the continent in a daring quest to reclaim your "
+"rightful throne from a usurping queen... Step into the shoes of a young "
+"mage, his village beset by orcish invasion, as he seeks vengeance and "
+"immortality... Battle the undead hordes of a foul necromancer as he marches "
+"upon your capital... Lead a daring group of survivors across the blazing "
+"sands to a final confrontation with an unseen evil... The choice is up to "
+"you.\n"
 msgstr ""
 
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
-msgid "The choice is up to you...\n"
+msgid ""
+"Then take the battle online! Choose from seven fully-balanced factions and "
+"duke it out with your friends in over 60 multiplayer maps for parties of all "
+"sizes!\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:14
+#: app_metadata.txt:13
+#, no-wrap
+msgid ""
+"Try your hand at crafting your own creations! Wesnoth features a built-in "
+"map editor, a highly moddable engine, a simple and intuitive scripting "
+"language, and a friendly and dedicated modding community. There's no telling "
+"what adventures you'll bring to life! Try out some of the hundreds of "
+"creative community-made campaigns, maps, and factions for both single and "
+"multiplayer.\n"
+msgstr ""
+
+#. type: Plain text
+#: app_metadata.txt:16
 #, no-wrap
 msgid "######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:16 app_metadata.txt:41
+#: app_metadata.txt:18 app_metadata.txt:43
 #, no-wrap
 msgid "#### OS VERSION ####\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:18
+#: app_metadata.txt:20
 #, no-wrap
 msgid "Windows 7 SP1 or later\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:20
+#: app_metadata.txt:22
 #, no-wrap
 msgid "OS X 10.8 or later\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:22
+#: app_metadata.txt:24
 #, no-wrap
 msgid "Ubuntu 14.04 or compatible\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:24 app_metadata.txt:49
+#: app_metadata.txt:26 app_metadata.txt:51
 #, no-wrap
 msgid "#### PROCESSOR ####\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:26 app_metadata.txt:28 app_metadata.txt:30
+#: app_metadata.txt:28 app_metadata.txt:30 app_metadata.txt:32
 #, no-wrap
 msgid "Dual-core 2.0 GHz or better\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:32 app_metadata.txt:57
+#: app_metadata.txt:34 app_metadata.txt:59
 #, no-wrap
 msgid "#### GRAPHICS ####\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:34 app_metadata.txt:59
+#: app_metadata.txt:36 app_metadata.txt:61
 #, no-wrap
 msgid "#### SOUND CARD ####\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:36 app_metadata.txt:61
+#: app_metadata.txt:38 app_metadata.txt:63
 #, no-wrap
 msgid "#### ADDITIONAL NOTES ####\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:39
+#: app_metadata.txt:41
 #, no-wrap
 msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:43
+#: app_metadata.txt:45
 #, no-wrap
 msgid "Windows 10\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:45
+#: app_metadata.txt:47
 #, no-wrap
 msgid "Ubuntu 16.04 or compatible\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:47
+#: app_metadata.txt:49
 #, no-wrap
 msgid "macOS 10.10 or later\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:51 app_metadata.txt:53 app_metadata.txt:55
+#: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57
 #, no-wrap
 msgid "Dual-core 3.2 GHz or better\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:63
+#: app_metadata.txt:65
 #, no-wrap
 msgid "######## LEGAL INFORMATION ########\n"
 msgstr ""
