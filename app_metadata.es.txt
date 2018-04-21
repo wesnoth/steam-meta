@@ -1,15 +1,15 @@
 ######## RESUMEN ########
 
-La Batalla for Wesnoth es un juego de estrategia basado en turnos de código abierto con un tema de alta fantasía. Incluye modos de juego de un solo jugador, y combate multijugador en línea o hotseat.
+La Batalla for Wesnoth es un juego de estrategia basado en turnos de código abierto con un tema de alta fantasía. Explore todos los rincones de Irdya y tome parte de un sinnúmero de aventuras en diecisiete campañas para un solo jugador y docenas de mapas multijugador.
 
 
 ######## DESCRIPCIÓN ########
 
-La Batalla for Wesnoth es un juego de estrategia basado en turnos de código abierto con un tema de alta fantasía. ¡De los llanos de Weldyn hasta los bosques de Wesmere, de las minas de Knalga a las altas cumbres de las Montañas Profundas, tome parte en docenas de aventuras a través de siglos de historia! Juegue el papel de un joven príncipe en su huida de los Señores Liches a un nuevo hogar a través del océano... Adéntrese en las oscuridades más profundas de la tierra para forjar una gema de fuego ardiente... Viaje a través del continente en una osada campaña para reclamar su trono legítimo de una reina usurpadora... Tome el lugar de un joven mago, su aldea bajo asedio por una invasión de orcos, en su búsqueda de venganza e inmortalidad... Combata las hordas de no muertos desatadas por un vil nigromante en curso a su capital... Lidere un grupo intrépido de sobrevivientes a través de las arenas ardientes a una confrontación final con un enemigo jamás antes visto... La opción es suya.
+La Batalla for Wesnoth es un juego de estrategia basado en turnos de código abierto con un tema de alta fantasía. ¡De los llanos de Weldyn hasta los bosques de Wesmere, de las minas de Knalga a las altas cumbres de las Montañas Profundas, tome parte en docenas de aventuras a través de siglos de historia! Juegue el papel de un joven príncipe en su huida de los señores liches a un nuevo hogar a través del océano... Adéntrese en las oscuridades más profundas de la tierra para forjar una gema de fuego ardiente... Viaje a través del continente en una osada campaña para reclamar su trono legítimo de una reina usurpadora... Tome el lugar de un joven mago, su aldea bajo asedio por una invasión de orcos, en su búsqueda de venganza e inmortalidad... Combata las hordas de no muertos desatadas por un vil nigromante en curso a su capital... Lidere un grupo intrépido de sobrevivientes a través de las arenas ardientes a una confrontación final con un enemigo jamás antes visto... La opción es suya.
 
-Luego, ¡embárquese en nuevas batallas en línea! ¡Escoja de entre siete facciones completamente balanceadas y luche contra sus amigos en más de 60 maps multijugador para grupos de diversos tamaños!
+Luego, ¡embárquese en nuevas batallas en línea! ¡Escoja de entre siete facciones completamente balanceadas y luche contra sus amigos en más de 50 mapas multijugador para grupos de diversos tamaños!
 
-¡Explore los cientos de campañas, mapas y facciones creados por la comunidad tanto para modos de un solo jugador y multijugador, y ponga a prueba sus habilidades para crear su propio contenido! Wesnoth incluye su propio editor de mapas, un motor de juego altamente modificable, un lenguaje de programación simple e intuitivo, y una amistosa comunidad de creadores llenos de dedicación. ¡Nadie se imagina qué aventuras hará realidad!
+¡Explore cientos de campañas, mapas y facciones creados por la comunidad tanto para modos de un solo jugador y multijugador, y ponga a prueba sus habilidades para crear su propio contenido! Wesnoth incluye su propio editor de mapas, un motor de juego altamente modificable, un lenguaje de programación simple e intuitivo, y una amistosa comunidad de creadores llenos de dedicación. ¡Nadie se imagina qué aventuras hará realidad!
 
 
 ######## PLATAFORMAS SOPORTADAS - REQUISITOS MÍNIMOS ########
