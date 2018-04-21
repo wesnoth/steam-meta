@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-21 15:16-0300\n"
-"PO-Revision-Date: 2018-04-21 15:17-0300\n"
+"POT-Creation-Date: 2018-04-21 15:43-0300\n"
+"PO-Revision-Date: 2018-04-21 15:43-0300\n"
 "Last-Translator: Iris Morelle <shadowm2006@gmail.com>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
 "Language: es\n"
@@ -90,7 +90,6 @@ msgstr ""
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
-#| msgid "Explore the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
 msgid ""
 "Explore hundreds of creative community-made campaigns, maps, and factions for"
 " both single and multiplayer, and try your hand at crafting your own! Wesnoth"
@@ -132,8 +131,8 @@ msgstr "OS X 10.8 o posterior\n"
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
-msgid "Ubuntu 14.04 or compatible\n"
-msgstr "Ubuntu 14.04 o compatible\n"
+msgid "Ubuntu 16.04 or compatible\n"
+msgstr "Ubuntu 16.04 o compatible\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:51
@@ -180,8 +179,9 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 16.04 or compatible\n"
-msgstr "Ubuntu 16.04 o compatible\n"
+#| msgid "Ubuntu 14.04 or compatible\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 o compatible\n"
 
 #. type: Plain text
 #: app_metadata.txt:49

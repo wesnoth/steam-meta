@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2018-04-20 06:05-0300\n"
-"PO-Revision-Date: 2018-04-21 20:50--0100\n"
+"PO-Revision-Date: 2018-04-21 20:58+0100\n"
 "Last-Translator: Herbert Bärschneider <hkbaerschneider@googlemai.com>\n"
 "Language-Team: German <LL@li.org>\n"
 "Language: de\n"
@@ -77,8 +77,8 @@ msgstr "OS X 10.8 oder neuer\n"
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
-msgid "Ubuntu 14.04 or compatible\n"
-msgstr "Ubuntu 14.04 oder gleichwertiges\n"
+msgid "Ubuntu 16.04 or compatible\n"
+msgstr "Ubuntu 16.04 oder gleichwertiges\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:51
@@ -125,8 +125,8 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 16.04 or compatible\n"
-msgstr "Ubuntu 16.04 oder gleichwertiges\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 oder gleichwertiges\n"
 
 #. type: Plain text
 #: app_metadata.txt:49

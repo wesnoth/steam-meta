@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-21 15:15-0300\n"
+"POT-Creation-Date: 2018-04-21 15:43-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,7 +79,7 @@ msgstr ""
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
-msgid "Ubuntu 14.04 or compatible\n"
+msgid "Ubuntu 16.04 or compatible\n"
 msgstr ""
 
 #. type: Plain text
@@ -127,7 +127,7 @@ msgstr ""
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 16.04 or compatible\n"
+msgid "Ubuntu 18.04 or compatible\n"
 msgstr ""
 
 #. type: Plain text
