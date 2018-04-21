@@ -20,7 +20,7 @@ Windows 7 SP1 or later
 
 OS X 10.8 or later
 
-Ubuntu 14.04 or compatible
+Ubuntu 16.04 or compatible
 
 #### PROCESSOR ####
 
@@ -43,7 +43,7 @@ Dual-core 2.0 GHz or better
 
 Windows 10
 
-Ubuntu 16.04 or compatible
+Ubuntu 18.04 or compatible
 
 macOS 10.10 or later
 
