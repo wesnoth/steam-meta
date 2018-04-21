@@ -1,13 +1,13 @@
 ######## ZUSAMMENFASSUNG ########
 
-Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch einen Mehrspielermodus.
+Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit Fantasy-Elementen. Erkunde die vier Himmelsrichtungen von Irdya in 17 Einzelspielerkampanien sowie dutzenden Mehrspielerkarten, und werde Teil der zahllosen Abenteuer.
 
 
 ######## ÜBER DAS SPIEL ########
 
 Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit Fantasy-Elementen. Von den Feldern Weldyns zu den Wäldern Wesmere, von den Minen Knalgas zu den hohen Gipfeln des Erzgebirges, sei Teil dutzender Abenteuer über mehrere Jahrhunderte. Spiele als ein junger Prinz auf der FLucht über einen weiten Ozean in eine neue Heimat vor den vordringenden Armeen der Lich Lords... Steige in die dunkelsten Tiefen der Erde um das Juwel des Feuers zu schmieden... Bereise die Welt auf einer waghalsigen Mission um deinen rechtmäßigen Thron zurückzuholen... Schlüpf in die Rolle eines jungen Magiers, sein Dorf von Orks bedroht, der nach Rache und Unsterblichkeit strebt... Bekämpfe die untoten Horden eines Totenbeschwörer, die in Richtung deiner Hauptstadt marschieren... Führe eine Gruppe Überlebender durch eine unwirtliche Wüste zur finalen Konfrontation eines unbekannten Übels... Du hast die Wahl.
 
-Führe den Kampf Online weiter! Wähle von sieben ausgeglichenen Fraktionen und spiele mit deinen Freunden auf über 60 Mehrspielerkarten für Gruppen jeder Größe!
+Führe den Kampf Online weiter! Wähle von sieben ausgeglichenen Fraktionen und spiele mit deinen Freunden auf über 50 Mehrspielerkarten für Gruppen jeder Größe!
 
 Entdecke die vielen von der Gemeinschaft erstellten Kampanien, Karten und Fraktionen für Einzel- sowie Mehrspielermodus, und erschaffe deine eigenen Sachen! Battle for Wesnoth besitzt einen eingebauten Karteneditor, eine modifizierbare Engine, eine einfache und intuitive Skriptsprache und eine freundliche sowie engagierte Gemeinschaft. Lass deiner Fantasie freien Lauf!
 

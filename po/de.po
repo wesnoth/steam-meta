@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2018-04-20 06:05-0300\n"
-"PO-Revision-Date: 2018-04-21 08:25-0100\n"
+"PO-Revision-Date: 2018-04-21 20:50--0100\n"
 "Last-Translator: Herbert Bärschneider <hkbaerschneider@googlemai.com>\n"
 "Language-Team: German <LL@li.org>\n"
 "Language: de\n"
@@ -23,8 +23,8 @@ msgstr "######## ZUSAMMENFASSUNG ########\n"
 #. type: Plain text
 #: app_metadata.txt:4
 #, no-wrap
-msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.\n"
-msgstr "Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit Fantasy-Elementen. Es gibt sowohl einen Einzelspieler- als auch einen Mehrspielermodus.\n"
+msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
+msgstr "Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit Fantasy-Elementen. Erkunde die vier Himmelsrichtungen von Irdya in 17 Einzelspielerkampanien sowie dutzenden Mehrspielerkarten, und werde Teil der zahllosen Abenteuer.\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
@@ -41,13 +41,13 @@ msgstr "Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategies
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
-msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 60 multiplayer maps for parties of all sizes!\n"
-msgstr "Führe den Kampf Online weiter! Wähle von sieben ausgeglichenen Fraktionen und spiele mit deinen Freunden auf über 60 Mehrspielerkarten für Gruppen jeder Größe!\n"
+msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
+msgstr "Führe den Kampf Online weiter! Wähle von sieben ausgeglichenen Fraktionen und spiele mit deinen Freunden auf über 50 Mehrspielerkarten für Gruppen jeder Größe!\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
-msgid "Explore the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
+msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
 msgstr "Entdecke die vielen von der Gemeinschaft erstellten Kampanien, Karten und Fraktionen für Einzel- sowie Mehrspielermodus, und erschaffe deine eigenen Sachen! Battle for Wesnoth besitzt einen eingebauten Karteneditor, eine modifizierbare Engine, eine einfache und intuitive Skriptsprache und eine freundliche sowie engagierte Gemeinschaft. Lass deiner Fantasie freien Lauf!\n"
 
 #. type: Plain text
