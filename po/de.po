@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2018-04-20 06:05-0300\n"
-"PO-Revision-Date: 2018-04-20 12:35-0100\n"
+"PO-Revision-Date: 2018-04-21 08:25-0100\n"
 "Last-Translator: Herbert Bärschneider <hkbaerschneider@googlemai.com>\n"
 "Language-Team: German <LL@li.org>\n"
 "Language: de\n"
@@ -47,8 +47,8 @@ msgstr "Führe den Kampf Online weiter! Wähle von sieben ausgeglichenen Fraktio
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
-msgid "Try your hand at crafting your own creations! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life! Try out some of the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer.\n"
-msgstr "Du kannst auch eigene Sachen erschaffen! Battle for Wesnoth besitzt einen eingebauten Karteneditor, eine modifizierbare Engine, eine einfache und intuitive Skriptsprache und eine freundliche sowie engagierte Gemeinschaft. Lass deiner Fantasie freien Lauf! Du kannst auch einige der vielen von der Gemeinschaft erstellten Kampanien, Karten und Fraktionen für Einzel- sowie Mehrspielermodus probieren.\n"
+msgid "Explore the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
+msgstr "Entdecke die vielen von der Gemeinschaft erstellten Kampanien, Karten und Fraktionen für Einzel- sowie Mehrspielermodus, und erschaffe deine eigenen Sachen! Battle for Wesnoth besitzt einen eingebauten Karteneditor, eine modifizierbare Engine, eine einfache und intuitive Skriptsprache und eine freundliche sowie engagierte Gemeinschaft. Lass deiner Fantasie freien Lauf!\n"
 
 #. type: Plain text
 #: app_metadata.txt:16

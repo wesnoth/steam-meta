@@ -9,7 +9,7 @@ Battle for Wesnoth ist ein frei verfügbares, rundenbasiertes Strategiespiel mit
 
 Führe den Kampf Online weiter! Wähle von sieben ausgeglichenen Fraktionen und spiele mit deinen Freunden auf über 60 Mehrspielerkarten für Gruppen jeder Größe!
 
-Du kannst auch eigene Sachen erschaffen! Battle for Wesnoth besitzt einen eingebauten Karteneditor, eine modifizierbare Engine, eine einfache und intuitive Skriptsprache und eine freundliche sowie engagierte Gemeinschaft. Lass deiner Fantasie freien Lauf! Du kannst auch einige der vielen von der Gemeinschaft erstellten Kampanien, Karten und Fraktionen für Einzel- sowie Mehrspielermodus probieren.
+Entdecke die vielen von der Gemeinschaft erstellten Kampanien, Karten und Fraktionen für Einzel- sowie Mehrspielermodus, und erschaffe deine eigenen Sachen! Battle for Wesnoth besitzt einen eingebauten Karteneditor, eine modifizierbare Engine, eine einfache und intuitive Skriptsprache und eine freundliche sowie engagierte Gemeinschaft. Lass deiner Fantasie freien Lauf!
 
 
 ######## SYSTEMANFORDERUNGEN - MINIMUM ########
