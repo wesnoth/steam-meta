@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-20 18:25-0300\n"
-"PO-Revision-Date: 2018-04-20 18:27-0300\n"
+"POT-Creation-Date: 2018-04-21 15:43-0300\n"
+"PO-Revision-Date: 2018-04-21 15:43-0300\n"
 "Last-Translator: Iris Morelle <shadowm2006@gmail.com>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
 "Language: es\n"
@@ -27,12 +27,14 @@ msgstr "######## RESUMEN ########\n"
 #, no-wrap
 msgid ""
 "The Battle for Wesnoth is an open source, turn-based strategy game with a"
-" high fantasy theme. It features both singleplayer and online/hotseat"
-" multiplayer combat.\n"
+" high fantasy theme. Explore the four corners of Irdya in seventeen solo"
+" campaigns and dozens of multiplayer maps, taking part in countless"
+" adventures as you go.\n"
 msgstr ""
 "La Batalla for Wesnoth es un juego de estrategia basado en turnos de código"
-" abierto con un tema de alta fantasía. Incluye modos de juego de un solo"
-" jugador, y combate multijugador en línea o hotseat.\n"
+" abierto con un tema de alta fantasía. Explore todos los rincones de Irdya y"
+" tome parte de un sinnúmero de aventuras en diecisiete campañas para un solo"
+" jugador y docenas de mapas multijugador.\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
@@ -62,8 +64,8 @@ msgstr ""
 " abierto con un tema de alta fantasía. ¡De los llanos de Weldyn hasta los"
 " bosques de Wesmere, de las minas de Knalga a las altas cumbres de las"
 " Montañas Profundas, tome parte en docenas de aventuras a través de siglos de"
-" historia! Juegue el papel de un joven príncipe en su huida de los Señores"
-" Liches a un nuevo hogar a través del océano... Adéntrese en las oscuridades"
+" historia! Juegue el papel de un joven príncipe en su huida de los señores"
+" liches a un nuevo hogar a través del océano... Adéntrese en las oscuridades"
 " más profundas de la tierra para forjar una gema de fuego ardiente... Viaje a"
 " través del continente en una osada campaña para reclamar su trono legítimo"
 " de una reina usurpadora... Tome el lugar de un joven mago, su aldea bajo"
@@ -78,25 +80,24 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Then take the battle online! Choose from seven fully-balanced factions and"
-" duke it out with your friends in over 60 multiplayer maps for parties of all"
+" duke it out with your friends in over 50 multiplayer maps for parties of all"
 " sizes!\n"
 msgstr ""
 "Luego, ¡embárquese en nuevas batallas en línea! ¡Escoja de entre siete"
-" facciones completamente balanceadas y luche contra sus amigos en más de 60"
-" maps multijugador para grupos de diversos tamaños!\n"
+" facciones completamente balanceadas y luche contra sus amigos en más de 50"
+" mapas multijugador para grupos de diversos tamaños!\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
-#| msgid "Try your hand at crafting your own creations! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life! Try out some of the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer.\n"
 msgid ""
-"Explore the hundreds of creative community-made campaigns, maps, and factions"
-" for both single and multiplayer, and try your hand at crafting your own!"
-" Wesnoth features a built-in map editor, a highly moddable engine, a simple"
-" and intuitive scripting language, and a friendly and dedicated modding"
+"Explore hundreds of creative community-made campaigns, maps, and factions for"
+" both single and multiplayer, and try your hand at crafting your own! Wesnoth"
+" features a built-in map editor, a highly moddable engine, a simple and"
+" intuitive scripting language, and a friendly and dedicated modding"
 " community. There's no telling what adventures you'll bring to life!\n"
 msgstr ""
-"¡Explore los cientos de campañas, mapas y facciones creados por la comunidad"
+"¡Explore cientos de campañas, mapas y facciones creados por la comunidad"
 " tanto para modos de un solo jugador y multijugador, y ponga a prueba sus"
 " habilidades para crear su propio contenido! Wesnoth incluye su propio editor"
 " de mapas, un motor de juego altamente modificable, un lenguaje de"
@@ -130,8 +131,8 @@ msgstr "OS X 10.8 o posterior\n"
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
-msgid "Ubuntu 14.04 or compatible\n"
-msgstr "Ubuntu 14.04 o compatible\n"
+msgid "Ubuntu 16.04 or compatible\n"
+msgstr "Ubuntu 16.04 o compatible\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:51
@@ -178,8 +179,9 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 16.04 or compatible\n"
-msgstr "Ubuntu 16.04 o compatible\n"
+#| msgid "Ubuntu 14.04 or compatible\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 o compatible\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
