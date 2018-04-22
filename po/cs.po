@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-20 18:25-0300\n"
-"PO-Revision-Date: 2018-04-21 12:43+0200\n"
+"POT-Creation-Date: 2018-04-21 15:43-0300\n"
+"PO-Revision-Date: 2018-04-22 15:25+0200\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,8 +25,8 @@ msgstr "######## SOUHRN ########\n"
 #. type: Plain text
 #: app_metadata.txt:4
 #, no-wrap
-msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.\n"
-msgstr "The Battle for Wesnoth - Bitva o Wesnoth je open-source, tahová, strategická hra s fantasy tématikou. Nabízí singleplayer i online/lokální multiplayer bitvy.\n"
+msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
+msgstr "The Battle for Wesnoth - Bitva o Wesnoth je open-source, tahová, strategická hra s fantasy tématikou. Prozkoumejte všechny čtyři kouty Irdye v sedmnácti sólových tažení a desítkách map pro více hráčů, účastnivse bezpočtu dobrodružství.\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
@@ -43,13 +43,13 @@ msgstr "The Battle for Wesnoth - Bitva o Wesnoth je open-source, tahová, strate
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
-msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 60 multiplayer maps for parties of all sizes!\n"
-msgstr "Pak se přidejte do online bitvy! Vyberte si ze sedmi plně vyvážených frakcí a vydejte se s přáteli na více než 60 map pro více hráčů pro týmy všech velikostí!\n"
+msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
+msgstr "Pak se přidejte do online bitvy! Vyberte si ze sedmi plně vyvážených frakcí a vydejte se s přáteli na více než 50 map pro více hráčů pro týmy všech velikostí!\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
-msgid "Explore the hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
+msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
 msgstr "Prozkoumejte stovky kreativních tažení vytvořených komunitou, map a frakcí pro jednoho i pro více hráčů a vyzkoušejte vytváření vlastních výtvorů! Bitva o Wesnoth obsahuje vestavěný editor map, vysoce modifikovatelný engine, jednoduchý a intuitivní skriptovací jazyk a přátelskou a specializovanou komunitu. Nikdo neví, jaké dobrodružství dokážete přivést k životu!\n"
 
 #. type: Plain text
@@ -79,8 +79,8 @@ msgstr "OS X 10.8 nebo novější\n"
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
-msgid "Ubuntu 14.04 or compatible\n"
-msgstr "Ubuntu 14.04 nebo kompatibilní\n"
+msgid "Ubuntu 16.04 or compatible\n"
+msgstr "Ubuntu 16.04 nebo kompatibilní\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:51
@@ -127,8 +127,8 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 16.04 or compatible\n"
-msgstr "Ubuntu 16.04 nebo kompatibilní\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 nebo kompatibilní\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
