@@ -1,0 +1,65 @@
+######## SOUHRN ########
+
+The Battle for Wesnoth - Bitva o Wesnoth je open-source, tahová, strategická hra s fantasy tématikou. Prozkoumejte všechny čtyři kouty Irdye v sedmnácti sólových tažení a desítkách map pro více hráčů, účastnivse bezpočtu dobrodružství.
+
+
+######## POPIS ########
+
+The Battle for Wesnoth - Bitva o Wesnoth je open-source, tahová, strategická hra s fantasy tématikou. Z plání Weldynu do Wesmerských lesů, z dolů Knalgy k tyčícím se vrcholkům Srdcových Hor se zúčastněte více než tuctu dobrodružství! Zahrajte si jako mladý princ, který utíká před rostoucí silou nemrtvých lordů do nového domova přes moře… Vydejte se do nejtemnějších hlubin země, abyste vytvořili samotný ohnivý klenot… Procestujte celý kontinent při odvážném úsilí získat zpět svůj oprávněný trůn, kterého se zmocnila zlá královna… Vlezte si do bot mladého mága, jehož vesnice se potýká se skřetí invazí, hledajíce pomstu a nesmrtelnost… Bojujte s nemrtvými hordami zlého nekromancera, který se snaží uchvátit vaše hlavní město… Veďte odvážnou skupinu přeživších přes planoucí písky, do posledního střetu s nevídaným zlem… Výběr je na vás.
+
+Pak se přidejte do online bitvy! Vyberte si ze sedmi plně vyvážených frakcí a vydejte se s přáteli na více než 50 map pro více hráčů pro týmy všech velikostí!
+
+Prozkoumejte stovky kreativních tažení vytvořených komunitou, map a frakcí pro jednoho i více hráčů, a vyzkoušejte si vytváření vlastních výtvorů! Bitva o Wesnoth obsahuje vestavěný editor map, vysoce modifikovatelný engine, jednoduchý a intuitivní skriptovací jazyk s přátelskou a specializovanou komunitu. Nikdo neví, jaká dobrodružství dokážete přivést k životu!
+
+
+######## PODPOROVANÉ PLATFORMY - MINIMÁLNÍ POŽADAVKY ########
+
+#### VERZE OPERAČNÍHO SYSTÉMU ####
+
+Windows 7 SP1 nebo novější
+
+OS X 10.8 nebo novější
+
+Ubuntu 16.04 nebo kompatibilní
+
+#### PROCESOR ####
+
+Dual-core 2.0 GHz nebo lepší
+
+Dual-core 2.0 GHz nebo lepší
+
+Dual-core 2.0 GHz nebo lepší
+
+#### GRAFIKA ####
+
+#### ZVUKOVÁ KARTA####
+
+#### DALŠÍ POZNÁMKY ####
+
+
+######## PODPOROVANÉ PLATFORMY - DOPORUČENÉ POŽADAVKY ########
+
+#### VERZE OPERAČNÍHO SYSTÉMU ####
+
+Windows 10
+
+Ubuntu 18.04 nebo kompatibilní
+
+macOS 10.10 nebo novější
+
+#### PROCESOR ####
+
+Dual-core 3.2 GHz nebo lepší
+
+Dual-core 3.2 GHz nebo lepší
+
+Dual-core 3.2 GHz nebo lepší
+
+#### GRAFIKA ####
+
+#### ZVUKOVÁ KARTA####
+
+#### DALŠÍ POZNÁMKY ####
+
+
+######## PRÁVNÍ INFORMACE ########
