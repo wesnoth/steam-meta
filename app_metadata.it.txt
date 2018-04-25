@@ -1,0 +1,65 @@
+######## SOMMARIO ########
+
+The Battle for Wesnoth è un gioco strategico a turni open-source, ad ambientazione fantasy. Esplora i quattro angoli di Idrya in diciassette campagne in solitario e dozzine di mappe multigiocatore, partecipando a innumerevoli avventure man mano che procedi.
+
+
+######## DESCRIZIONE ########
+
+The Battle for Wesnoth è un gioco strategico a turni open-source, ad ambientazione fantasy. Dalle pianure di Weldyn alle foreste di Wesmere, dalle miniere di Knalga ai maestosi picchi delle Montagne Centrali, partecipa in più di una dozzina di avventura nel corso dei secoli! Impersona un giovane principe mentre tenta di sfuggire alle forze di invasione dei Signori Lich verso una nuova casa al di là del mare... Scava nelle più tetre profondità della terra per forgiare un gioiello dal fuoco stesso... Viaggia per tutto il continente in una missione audace per reclamare i tuoi diritti sulla corona da una regina usurpatrice... Mettiti nei panni di un giovane mago, il cui villaggio viene distrutto da orchi invasori, mentre cerca la vendetta e l'immortalità... Combatti le orde dei non-morti ai comandi di un pazzo necromante che marcia verso la tua capitale... Guida un gruppo di audaci superstiti attraverso le sabbie infuocate verso il confronto finale contro un male ignoto... La scelta è tua.
+
+E poi porta la battaglia in rete! Scegli fra sette fazioni perfettamente bilanciate e lancia il guanto di sfida ai tuoi amici in più di 50 mappe multigiocatore per gruppi di qualsiasi dimensione!
+
+Esplora centinaia di contenuti creati dalla comunità degli utenti: fantastiche campagne, mappe e fazioni sia in singolo che multigiocatore, e puoi cimentarti tu stesso nella creazione di nuovi contenuti! Wesnoth è dotato di un editor di mappe integrato, un motore altamente personalizzabile, un semplice e intuitivo linguaggio di scripting e una amichevole e disponibile comunità di sviluppatori. Pensa a tutto quello che potresti fare!
+
+
+######## PIATTAFORME SUPPORTATE - REQUISITI MINIMI ########
+
+#### VERSIONE SO ####
+
+Windows 7 SP1 o successivo
+
+OS X 10.8 o successivo
+
+Ubuntu 16.04 o compatibile
+
+#### PROCESSORE ####
+
+Dual-core 2.0 GHz o migliore
+
+Dual-core 2.0 GHz o migliore
+
+Dual-core 2.0 GHz o migliore
+
+#### GRAFICA ####
+
+#### SCHEDA AUDIO ####
+
+#### NOTE ADDIZIONALI ####
+
+
+######## PIATTAFORME SUPPORTATE - REQUISITI CONSIGLIATI ########
+
+#### VERSIONE SO ####
+
+Windows 10
+
+Ubuntu 18.04 o compatibile
+
+macOS 10.10 o successivo
+
+#### PROCESSORE ####
+
+Dual-core 3.2 GHz o migliore
+
+Dual-core 3.2 GHz o migliore
+
+Dual-core 3.2 GHz o migliore
+
+#### GRAFICA ####
+
+#### SCHEDA AUDIO ####
+
+#### NOTE ADDIZIONALI ####
+
+
+######## INFORMAZIONI LEGALI ########
