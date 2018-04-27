@@ -1,17 +1,15 @@
-# SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Wesnoth, Inc.
 # This file is distributed under the same license as the wesnoth-steam-meta package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
+# Iris Morelle <shadowm2006@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2018-04-21 15:43-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2018-04-27 05:56-0300\n"
+"Last-Translator: Emilien Rotival\n"
+"Language-Team: French <i18n@wesnoth.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,130 +18,130 @@ msgstr ""
 #: app_metadata.txt:2
 #, no-wrap
 msgid "######## SUMMARY ########\n"
-msgstr ""
+msgstr "######## RESUME ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:4
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
-msgstr ""
+msgstr "La Bataille pour Wesnoth est un jeu open source de stratégie au tour par tour avec un thème high fantasy. Explorez les quatre coins d'Irdya pour d'innombrables aventures à travers dix-sept campagnes solo et des dizaines de cartes multijoueur.\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
 #, no-wrap
 msgid "######## DESCRIPTION ########\n"
-msgstr ""
+msgstr "######## DESCRIPTION ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:9
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. From the plains of Weldyn to the forests of Wesmere, from the mines of Knalga to the soaring peaks of the Heart Mountains, take part in over a dozen adventures spanning centuries! Play as a young prince as he flees the encroaching forces of the Lich Lords to a new home across the sea... Delve into the blackest depths of the earth to craft a jewel of fire itself... Travel the continent in a daring quest to reclaim your rightful throne from a usurping queen... Step into the shoes of a young mage, his village beset by orcish invasion, as he seeks vengeance and immortality... Battle the undead hordes of a foul necromancer as he marches upon your capital... Lead a daring group of survivors across the blazing sands to a final confrontation with an unseen evil... The choice is up to you.\n"
-msgstr ""
+msgstr "La Bataille pour Wesnoth est un jeu open source de stratégie au tour par tour avec un thème high fantasy. Des plaines de Weldyn aux forêts de Wesmere, des mines du Knalgan aux sommets vertigineux des Montagnes Centrales, prenez part à des dizaines d'aventures s'étalant sur plusieurs siècles ! Incarnez un jeune prince qui fuit l'avancée des Seigneurs Liches vers une terre d'accueil au-delà des mers... Plongez dans les entrailles de la terre pour réaliser un joyau de feu pur... Traversez le continent dans une quête hardie pour reprendre votre trône des mains d'une reine usurpatrice... Accompagnez un jeune mage, son village menacé par une invasion orque, dans sa recherche de vengeance et d'immortalité... Affrontez les hordes mort-vivantes d'un infâme nécromancien qui marche sur votre capitale... Menez un groupe de survivants audacieux à travers les sables ardents jusqu'à la confrontation finale avec un mal caché... A vous de choisir.\n"
 
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
 msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
-msgstr ""
+msgstr "Menez ensuite la bataille en ligne ! Choisissez parmi sept factions équilibrées et affrontez vos amis dans plus de cinquante cartes multijoueur, quel que soit votre nombre !\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
 msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
-msgstr ""
+msgstr "Explorez les centaines de campagnes, cartes et factions solo ou multijoueur créées par la communauté, ou tentez de construire la vôtre ! Wesnoth offre un éditeur de carte intégré, un moteur largement moddable, un langage de script simple et intuitif, ainsi qu'une communauté de créateurs dévouée et amicale. A quelles aventures donnerez-vous vie ?\n"
 
 #. type: Plain text
 #: app_metadata.txt:16
 #, no-wrap
 msgid "######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########\n"
-msgstr ""
+msgstr "######## PLATEFORMES - CONFIGURATION MINIMALE ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:18 app_metadata.txt:43
 #, no-wrap
 msgid "#### OS VERSION ####\n"
-msgstr ""
+msgstr "#### SYSTEME D'EXPLOITATION ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:20
 #, no-wrap
 msgid "Windows 7 SP1 or later\n"
-msgstr ""
+msgstr "Windows 7 SP1 ou plus récent\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
 #, no-wrap
 msgid "OS X 10.8 or later\n"
-msgstr ""
+msgstr "OS X 10.8 ou plus récent\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
 msgid "Ubuntu 16.04 or compatible\n"
-msgstr ""
+msgstr "Ubuntu 16.04 ou équivalent\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:51
 #, no-wrap
 msgid "#### PROCESSOR ####\n"
-msgstr ""
+msgstr "#### PROCESSEUR ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:28 app_metadata.txt:30 app_metadata.txt:32
 #, no-wrap
 msgid "Dual-core 2.0 GHz or better\n"
-msgstr ""
+msgstr "Dual-core 2.0 GHz ou mieux\n"
 
 #. type: Plain text
 #: app_metadata.txt:34 app_metadata.txt:59
 #, no-wrap
 msgid "#### GRAPHICS ####\n"
-msgstr ""
+msgstr "#### GRAPHIQUES ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:36 app_metadata.txt:61
 #, no-wrap
 msgid "#### SOUND CARD ####\n"
-msgstr ""
+msgstr "#### CARTE SON ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:38 app_metadata.txt:63
 #, no-wrap
 msgid "#### ADDITIONAL NOTES ####\n"
-msgstr ""
+msgstr "#### NOTES ADDITIONNELLES ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:41
 #, no-wrap
 msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########\n"
-msgstr ""
+msgstr "######## PLATEFORMES - CONFIGURATION RECOMMANDEE ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:45
 #, no-wrap
 msgid "Windows 10\n"
-msgstr ""
+msgstr "Windows 10\n"
 
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
 msgid "Ubuntu 18.04 or compatible\n"
-msgstr ""
+msgstr "Ubuntu 18.04 ou équivalent\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
 #, no-wrap
 msgid "macOS 10.10 or later\n"
-msgstr ""
+msgstr "macOS 10.10 ou plus récent\n"
 
 #. type: Plain text
 #: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57
 #, no-wrap
 msgid "Dual-core 3.2 GHz or better\n"
-msgstr ""
+msgstr "Dual-core 3.2 GHz ou mieux\n"
 
 #. type: Plain text
 #: app_metadata.txt:65
 #, no-wrap
 msgid "######## LEGAL INFORMATION ########\n"
-msgstr ""
+msgstr "######## INFORMATIONS LEGALES ########\n"
