@@ -1,0 +1,65 @@
+######## ÖSSZEFOGLALÁS ########
+
+A Harc Wesnothért egy nyílt forrású, körökre osztott, fantasy témájú stratégiai játék. Vegyél részt számtalan kalandban, míg felfedezed Irdya minden szegletét a tizenhét egyjátékos hadjáratban és a többjátékos pályák tucatjain!
+
+
+######## LEÍRÁS ########
+
+A Harc Wesnothért egy nyílt forráskódú, körökre osztott, fantasy témájú stratégiai játék. Vegyél részt tucatnyi, évszázadokon átívelő kalandban Weldyn síkságától Wesmere erdőjéig, Knalga bányáitól a Szív-hegység égbe törő csúcsaiig! Játssz egy ifjú herceget, aki a Delevény Nagyúr seregei elől menekül egy új hazába a tengeren túlra... Ereszkedj a föld legsötétebb bugyraiba, hogy ott magából a tűzből készíthess ékkövet... Utazd be a kontinenst, hogy visszaszerezd a trónbitorló királynőtől jogos örökséged... Bújj egy ifjú mágus bőrébe, ki a faluját feldúló orkok elleni bosszúra készül és a halhatatlanságot keresi... Szállj szembe egy visszataszító holtidéző élőholtjainak fővárosod felé masírozó hordájával... Vezesd át túlélők egy bátor csoportját a tűzforró homokon, hogy végül egy soha nem látott gonosszal küzdjetek meg... Tiéd a választás.
+
+Aztán folytasd a harcot online! Válassz a hét teljesen kiegyensúlyozott szövetség és az 50 különböző többjátékos térkép közül, melyek kitűnő szórakozást nyújtanak, akármekkora legyen is baráti társaságod!
+
+Fedezd fel a kreatív közösség által létrehozott egy- és többjátékos térképek, hadjáratok és egységek százait, majd próbálj készíteni magad is! A játék beépített pályaszerkesztővel rendelkezik, motorja kiegészítőkkel könnyedén átszabható, parancsnyelve egyszerű és intuitív, használatában pedig szívesen segít neked a barátságos és elhivatott közösség. Ki tudja, milyen kalandokat hívsz majd életre!
+
+
+######## TÁMOGATOTT PLATFORMOK - MINIMUMKÖVETELMÉNYEK ########
+
+#### OPERÁCIÓS RENDSZER ####
+
+Windows 7 SP1 vagy újabb
+
+OS X 10.8 vagy újabb
+
+Ubuntu 16.04 vagy kompatibilis
+
+#### PROCESSZOR ####
+
+Kétmagos 2.0 GHz vagy jobb
+
+Kétmagos 2.0 GHz vagy jobb
+
+Kétmagos 2.0 GHz vagy jobb
+
+#### GRAFIKA ####
+
+#### HANGKÁRTYA ####
+
+#### TOVÁBBI MEGJEGYZÉSEK ####
+
+
+######## TÁMOGATOTT PLATFORMOK - AJÁNLOTT KÖVETELMÉNYEK ########
+
+#### OPERÁCIÓS RENDSZER ####
+
+Windows 10
+
+Ubuntu 18.04 vagy kompatibilis
+
+macOS 10.10 vagy újabb
+
+#### PROCESSZOR ####
+
+Kétmagos 3.2 GHz vagy jobb
+
+Kétmagos 3.2 GHz vagy jobb
+
+Kétmagos 3.2 GHz vagy jobb
+
+#### GRAFIKA ####
+
+#### HANGKÁRTYA ####
+
+#### TOVÁBBI MEGJEGYZÉSEK ####
+
+
+######## JOGI INFORMÁCIÓK ########

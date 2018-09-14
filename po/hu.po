@@ -3,147 +3,148 @@
 # This file is distributed under the same license as the wesnoth-steam-meta package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2018-04-21 15:43-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2018-09-14 22:57+0200\n"
+"Last-Translator: Széll András <szell.andris@gmail.com>\n"
+"Language-Team: Hungarian (https://www.transifex.com/gunchleoc/teams/12769/"
+"hu/)\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. type: Plain text
 #: app_metadata.txt:2
 #, no-wrap
 msgid "######## SUMMARY ########\n"
-msgstr ""
+msgstr "######## ÖSSZEFOGLALÁS ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:4
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
-msgstr ""
+msgstr "A Harc Wesnothért egy nyílt forrású, körökre osztott, fantasy témájú stratégiai játék. Vegyél részt számtalan kalandban, míg felfedezed Irdya minden szegletét a tizenhét egyjátékos hadjáratban és a többjátékos pályák tucatjain!\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
 #, no-wrap
 msgid "######## DESCRIPTION ########\n"
-msgstr ""
+msgstr "######## LEÍRÁS ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:9
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. From the plains of Weldyn to the forests of Wesmere, from the mines of Knalga to the soaring peaks of the Heart Mountains, take part in over a dozen adventures spanning centuries! Play as a young prince as he flees the encroaching forces of the Lich Lords to a new home across the sea... Delve into the blackest depths of the earth to craft a jewel of fire itself... Travel the continent in a daring quest to reclaim your rightful throne from a usurping queen... Step into the shoes of a young mage, his village beset by orcish invasion, as he seeks vengeance and immortality... Battle the undead hordes of a foul necromancer as he marches upon your capital... Lead a daring group of survivors across the blazing sands to a final confrontation with an unseen evil... The choice is up to you.\n"
-msgstr ""
+msgstr "A Harc Wesnothért egy nyílt forráskódú, körökre osztott, fantasy témájú stratégiai játék. Vegyél részt tucatnyi, évszázadokon átívelő kalandban Weldyn síkságától Wesmere erdőjéig, Knalga bányáitól a Szív-hegység égbe törő csúcsaiig! Játssz egy ifjú herceget, aki a Delevény Nagyúr seregei elől menekül egy új hazába a tengeren túlra... Ereszkedj a föld legsötétebb bugyraiba, hogy ott magából a tűzből készíthess ékkövet... Utazd be a kontinenst, hogy visszaszerezd a trónbitorló királynőtől jogos örökséged... Bújj egy ifjú mágus bőrébe, ki a faluját feldúló orkok elleni bosszúra készül és a halhatatlanságot keresi... Szállj szembe egy visszataszító holtidéző élőholtjainak fővárosod felé masírozó hordájával... Vezesd át túlélők egy bátor csoportját a tűzforró homokon, hogy végül egy soha nem látott gonosszal küzdjetek meg... Tiéd a választás.\n"
 
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
 msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
-msgstr ""
+msgstr "Aztán folytasd a harcot online! Válassz a hét teljesen kiegyensúlyozott szövetség és az 50 különböző többjátékos térkép közül, melyek kitűnő szórakozást nyújtanak, akármekkora legyen is baráti társaságod!\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
 msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
-msgstr ""
+msgstr "Fedezd fel a kreatív közösség által létrehozott egy- és többjátékos térképek, hadjáratok és egységek százait, majd próbálj készíteni magad is! A játék beépített pályaszerkesztővel rendelkezik, motorja kiegészítőkkel könnyedén átszabható, parancsnyelve egyszerű és intuitív, használatában pedig szívesen segít neked a barátságos és elhivatott közösség. Ki tudja, milyen kalandokat hívsz majd életre!\n"
 
 #. type: Plain text
 #: app_metadata.txt:16
 #, no-wrap
 msgid "######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########\n"
-msgstr ""
+msgstr "######## TÁMOGATOTT PLATFORMOK - MINIMUMKÖVETELMÉNYEK ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:18 app_metadata.txt:43
 #, no-wrap
 msgid "#### OS VERSION ####\n"
-msgstr ""
+msgstr "#### OPERÁCIÓS RENDSZER ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:20
 #, no-wrap
 msgid "Windows 7 SP1 or later\n"
-msgstr ""
+msgstr "Windows 7 SP1 vagy újabb\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
 #, no-wrap
 msgid "OS X 10.8 or later\n"
-msgstr ""
+msgstr "OS X 10.8 vagy újabb\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
 msgid "Ubuntu 16.04 or compatible\n"
-msgstr ""
+msgstr "Ubuntu 16.04 vagy kompatibilis\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:51
 #, no-wrap
 msgid "#### PROCESSOR ####\n"
-msgstr ""
+msgstr "#### PROCESSZOR ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:28 app_metadata.txt:30 app_metadata.txt:32
 #, no-wrap
 msgid "Dual-core 2.0 GHz or better\n"
-msgstr ""
+msgstr "Kétmagos 2.0 GHz vagy jobb\n"
 
 #. type: Plain text
 #: app_metadata.txt:34 app_metadata.txt:59
 #, no-wrap
 msgid "#### GRAPHICS ####\n"
-msgstr ""
+msgstr "#### GRAFIKA ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:36 app_metadata.txt:61
 #, no-wrap
 msgid "#### SOUND CARD ####\n"
-msgstr ""
+msgstr "#### HANGKÁRTYA ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:38 app_metadata.txt:63
 #, no-wrap
 msgid "#### ADDITIONAL NOTES ####\n"
-msgstr ""
+msgstr "#### TOVÁBBI MEGJEGYZÉSEK ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:41
 #, no-wrap
 msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########\n"
-msgstr ""
+msgstr "######## TÁMOGATOTT PLATFORMOK - AJÁNLOTT KÖVETELMÉNYEK ########\n"
 
 #. type: Plain text
 #: app_metadata.txt:45
 #, no-wrap
 msgid "Windows 10\n"
-msgstr ""
+msgstr "Windows 10\n"
 
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
 msgid "Ubuntu 18.04 or compatible\n"
-msgstr ""
+msgstr "Ubuntu 18.04 vagy kompatibilis\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
 #, no-wrap
 msgid "macOS 10.10 or later\n"
-msgstr ""
+msgstr "macOS 10.10 vagy újabb\n"
 
 #. type: Plain text
 #: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57
 #, no-wrap
 msgid "Dual-core 3.2 GHz or better\n"
-msgstr ""
+msgstr "Kétmagos 3.2 GHz vagy jobb\n"
 
 #. type: Plain text
 #: app_metadata.txt:65
 #, no-wrap
 msgid "######## LEGAL INFORMATION ########\n"
-msgstr ""
+msgstr "######## JOGI INFORMÁCIÓK ########\n"
