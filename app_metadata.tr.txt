@@ -1,0 +1,65 @@
+######## ÖZET ########
+
+Battle for Wesnoth (Wesnoth Savaşı), büyük ölçüde fantezi temalı, açık kaynaklı ve sıra tabanlı bir strateji oyunudur. Irdya'nın dört bir köşesini onyedi tek kişilik seferberlik modunda veya sayısız maceralarda yer almak üzere onlarca çok oyunculu harita üzerinde keşfet.
+
+
+######## AÇIKLAMA ########
+
+Battle for Wesnoth, büyük ölçüde fantezi temalı, açık kaynaklı, sıra tabanlı bir strateji oyunudur. Weldyn ovalarından Wesmere ormanlarına, Knalga madenlerinden Kalp Dağları'nın yükselen zirvelerine, yüzyıllarca süren onlarca maceraya katıl! Lich Lords'un istilacı güçlerinden kaçmaya çalışan ve denizin karşısındaki yeni bir vatana giden genç bir prens olarak oyna... Ateşten bir mücevher yapmak için dünyanın en kara derinliklerine dal... Hakkın olan tahtı, savaşçı kraliçeden geri almak için kıyıları cesurca gez... Genç bir büyücünün yerine geç ve öfke ile ölümsüzlüğü ararken köyünün orklar tarafından yaratılan ordu ile istilasına karşı gel... Başkentine doğru yürüyen ölümsüz bir vahşi askerlerle savaş... Ateşli kumların karşısındaki hayatta kalmaya çalılşan cesur gruba liderlik et ve görünmeyen bir kötülük ile son bir çatışmaya gir... Seçim senin.
+
+Ardından çevrimiçi savaşa katıl! Yedi tam dengelenmiş gruptan birini seç ve her boyuttan parti ile 50'den fazla çok oyunculu haritada arkadaşlarınla maceraya atıl!
+
+Hem tek kişilik hem de çok oyunculu oyunlar için yüzlerce yaratıcı topluluk seferberliğini, haritaları ve grupları keşfet. Bir şeyler üretmeyi dene!  Wesnoth'ta yerleşik bir harita düzenleyici, yüksek derecede modlanabilir bir motor, basit ve sezgisel bir betik dili ile arkadaşçıl ve adanmış bir modlama topluluğu vardır. Hangi maceraları hayata geçireceğini bilemezsin!
+
+
+######## DESTEKLENEN PLATFORMLAR - ASGARİ GEREKSİNİMLER ########
+
+#### İŞLETİM SİSTEMİ SÜRÜMÜ ####
+
+Windows 7 SP1 veya sonrası
+
+OS X 10.8 veya sonrası
+
+Ubuntu 16.04 veya uyumlu
+
+#### İŞLEMCİ ####
+
+Çift çekirdek 2.0 GHz veya daha iyi
+
+Çift çekirdek 2.0 GHz veya daha iyi
+
+Çift çekirdek 2.0 GHz veya daha iyi
+
+#### GRAFİK ####
+
+#### SES KARTI ####
+
+#### EK NOTLAR ####
+
+
+######## DESTEKLENEN PLATFORMLAR - ÖNERİLEN GEREKSİNİMLER ########
+
+#### İŞLETİM SİSTEMİ SÜRÜMÜ ####
+
+Windows 10
+
+Ubuntu 18.04 veya uyumlu
+
+macOS 10.10 veya sonrası
+
+#### İŞLEMCİ ####
+
+Çift çekirdek 3.2 GHz veya daha iyi
+
+Çift çekirdek 3.2 GHz veya daha iyi
+
+Çift çekirdek 3.2 GHz veya daha iyi
+
+#### GRAFİK ####
+
+#### SES KARTI ####
+
+#### EK NOTLAR ####
+
+
+######## YASAL BİLGİ ########
