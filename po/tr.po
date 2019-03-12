@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-21 15:43-0300\n"
+"POT-Creation-Date: 2019-03-12 13:58-0300\n"
 "PO-Revision-Date: 2019-03-11 11:15+0100\n"
+"Last-Translator: Volkan <volkangezer@gmail.com>\n"
+"Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: Volkan <volkangezer@gmail.com>\n"
-"Language-Team: \n"
 "X-Generator: Poedit 2.2\n"
 
 #. type: Plain text
@@ -128,14 +128,14 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 18.04 or compatible\n"
-msgstr "Ubuntu 18.04 veya uyumlu\n"
+msgid "macOS 10.10 or later\n"
+msgstr "macOS 10.10 veya sonrası\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
 #, no-wrap
-msgid "macOS 10.10 or later\n"
-msgstr "macOS 10.10 veya sonrası\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 veya uyumlu\n"
 
 #. type: Plain text
 #: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57

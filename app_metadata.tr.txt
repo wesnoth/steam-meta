@@ -43,9 +43,9 @@ Ubuntu 16.04 veya uyumlu
 
 Windows 10
 
-Ubuntu 18.04 veya uyumlu
-
 macOS 10.10 veya sonrası
+
+Ubuntu 18.04 veya uyumlu
 
 #### İŞLEMCİ ####
 

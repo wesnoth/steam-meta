@@ -43,9 +43,9 @@ Dual-core 2.0 GHz 以上
 
 Windows 10
 
-Ubuntu 18.04 互換システム
-
 macOS 10.10 以降
+
+Ubuntu 18.04 互換システム
 
 #### プロセッサ ####
 

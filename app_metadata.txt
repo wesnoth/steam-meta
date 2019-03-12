@@ -43,9 +43,9 @@ Dual-core 2.0 GHz or better
 
 Windows 10
 
-Ubuntu 18.04 or compatible
-
 macOS 10.10 or later
+
+Ubuntu 18.04 or compatible
 
 #### PROCESSOR ####
 

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-21 15:43-0300\n"
+"POT-Creation-Date: 2019-03-12 13:58-0300\n"
 "PO-Revision-Date: 2018-04-23 20:18+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -128,14 +128,14 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 18.04 or compatible\n"
-msgstr "Ubuntu 18.04 或与之兼容的系统\n"
+msgid "macOS 10.10 or later\n"
+msgstr "macOS 10.10 或更高\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
 #, no-wrap
-msgid "macOS 10.10 or later\n"
-msgstr "macOS 10.10 或更高\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 或与之兼容的系统\n"
 
 #. type: Plain text
 #: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57

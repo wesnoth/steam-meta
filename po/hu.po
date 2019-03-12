@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2018-04-21 15:43-0300\n"
+"POT-Creation-Date: 2019-03-12 13:58-0300\n"
 "PO-Revision-Date: 2018-09-14 22:57+0200\n"
 "Last-Translator: Széll András <szell.andris@gmail.com>\n"
 "Language-Team: Hungarian (https://www.transifex.com/gunchleoc/teams/12769/"
@@ -128,14 +128,14 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 18.04 or compatible\n"
-msgstr "Ubuntu 18.04 vagy kompatibilis\n"
+msgid "macOS 10.10 or later\n"
+msgstr "macOS 10.10 vagy újabb\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
 #, no-wrap
-msgid "macOS 10.10 or later\n"
-msgstr "macOS 10.10 vagy újabb\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 vagy kompatibilis\n"
 
 #. type: Plain text
 #: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57

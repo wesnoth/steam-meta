@@ -43,9 +43,9 @@ Kétmagos 2.0 GHz vagy jobb
 
 Windows 10
 
-Ubuntu 18.04 vagy kompatibilis
-
 macOS 10.10 vagy újabb
+
+Ubuntu 18.04 vagy kompatibilis
 
 #### PROCESSZOR ####
 
