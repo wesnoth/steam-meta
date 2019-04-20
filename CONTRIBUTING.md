@@ -3,13 +3,14 @@ Contributing
 
 Because we want Wesnoth on Steam to reach a large worldwide audience, we would
 like to have store description translations available for as many languages the
-Steam store supports as possible. As of this writing (April 2018), those
+Steam store supports as possible. As of this writing (April 2019), those
 languages are:
 
-English, French, Italian, German, Spanish, Arabic, Bulgarian, Czech, Danish,
-Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish,
-Portuguese, Portuguese (Brazil), Romanian, Russian, Simplified Chinese,
-Swedish, Thai, Traditional Chinese, Turkish, and Ukranian.
+English, French, Italian, German, Arabic, Bulgarian, Czech, Danish, Dutch,
+Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese,
+Portuguese (Brazil), Romanian, Russian, Simplified Chinese, Spanish (Latin
+America), Spanish (Spain), Swedish, Thai, Traditional Chinese, Turkish,
+Ukranian, and Vietnamese.
 
 The developers team can only provide the English version of the descriptions,
 so we rely on community volunteers for translating them as with the main game
