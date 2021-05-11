@@ -1,15 +1,15 @@
 ######## SOUHRN ########
 
-The Battle for Wesnoth - Bitva o Wesnoth je open-source, tahová, strategická hra s fantasy tématikou. Prozkoumejte všechny čtyři kouty Irdye v sedmnácti sólových tažení a desítkách map pro více hráčů, účastnivse bezpočtu dobrodružství.
+Bitva o Wesnoth je tahová strategická hra s rozvinutou fantasy tématikou a otevřeným zdrojovým kódem. Projděte Irdyi křížem krážem v sedmnácti sólových taženích a desítkách map pro hru více hráčů, účastníce se přitom bezpočtu dobrodružství.
 
 
 ######## POPIS ########
 
-The Battle for Wesnoth - Bitva o Wesnoth je open-source, tahová, strategická hra s fantasy tématikou. Z plání Weldynu do Wesmerských lesů, z dolů Knalgy k tyčícím se vrcholkům Srdcových Hor se zúčastněte více než tuctu dobrodružství! Zahrajte si jako mladý princ, který utíká před rostoucí silou nemrtvých lordů do nového domova přes moře… Vydejte se do nejtemnějších hlubin země, abyste vytvořili samotný ohnivý klenot… Procestujte celý kontinent při odvážném úsilí získat zpět svůj oprávněný trůn, kterého se zmocnila zlá královna… Vlezte si do bot mladého mága, jehož vesnice se potýká se skřetí invazí, hledajíce pomstu a nesmrtelnost… Bojujte s nemrtvými hordami zlého nekromancera, který se snaží uchvátit vaše hlavní město… Veďte odvážnou skupinu přeživších přes planoucí písky, do posledního střetu s nevídaným zlem… Výběr je na vás.
+Bitva o Wesnoth je tahová strategická hra s rozvinutou fantasy tématikou a otevřeným zdrojovým kódem. Účastněte se více než tuctu dobrodružství napříč staletími z plání Weldynu do wesmerských lesů, z dolů Knalgy až tam, kde se tyčí Srdcové hory! Hrajte za mladého prince, který před rostoucí silou lordů lichů prchá přes moře do nového domova... Sestupte do nejtemnějších hlubin země, abyste vytvořili samotný ohnivý klenot... Procestujte světadíl ve smělém úsilí o opětovné získání trůnu, který vám právem náleží, od královny, jež ho uchvátila... Zaujměte místo mladého mága, jehož vesnici sužují nájezdy skřetů, při jeho hledání odplaty a nesmrtelnosti... Střetněte se s nemrtvými hordami odporného nekromanta, když pochoduje na vaše hlavní město... Veďte odvážnou skupinu přeživších přes žhnoucí písky k závěrečnému střetu s nevídaným zlem... Volba je na vás.
 
-Pak se přidejte do online bitvy! Vyberte si ze sedmi plně vyvážených frakcí a vydejte se s přáteli na více než 50 map pro více hráčů pro týmy všech velikostí!
+Pak vyhrajte bitvu online! Vyberte si ze sedmi plně vyvážených frakcí a bojujte se svými přáteli na více než 50 mapách pro týmy všech velikostí!
 
-Prozkoumejte stovky kreativních tažení vytvořených komunitou, map a frakcí pro jednoho i více hráčů, a vyzkoušejte si vytváření vlastních výtvorů! Bitva o Wesnoth obsahuje vestavěný editor map, vysoce modifikovatelný engine, jednoduchý a intuitivní skriptovací jazyk s přátelskou a specializovanou komunitu. Nikdo neví, jaká dobrodružství dokážete přivést k životu!
+Prozkoumejte stovky nápaditých tažení, map a frakcí udělaných komunitou pro hru jednoho i více hráčů a zkuste si vytvořit své vlastní! Wesnoth obsahuje vestavěný editor map, vysoce upravitelný engine, jednoduchý a intuitivní skriptovací jazyk a může se pochlubit přátelskou a nadšenou komunitou. Nelze říct, jaká dobrodružství přivedete k životu!
 
 
 ######## PODPOROVANÉ PLATFORMY - MINIMÁLNÍ POŽADAVKY ########
