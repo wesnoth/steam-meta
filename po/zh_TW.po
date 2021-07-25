@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2019-03-12 13:58-0300\n"
-"PO-Revision-Date: 2019-04-21 13:55+0800\n"
+"PO-Revision-Date: 2021-07-20 00:37+0800\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: 楊綮銘 <steven2880@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Plain text
 #: app_metadata.txt:2
@@ -26,7 +26,7 @@ msgstr "######## 概述 ########\n"
 #: app_metadata.txt:4
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
-msgstr "韋諾之戰是一款開放原始碼且充滿奇幻風格的回合制策略遊戲。在埃迪亞的世界裡四處探索，其中包含十七個單人戰役及十多張多人地圖，您可以隨時體驗無數場冒險。\n"
+msgstr "韋諾之戰是一款開放原始碼且充滿奇幻風格的回合制策略遊戲。在 17 個單人戰役和大量的多人地圖中來探索爾迪亞的各個角落，您可以隨時體驗無數場冒險。\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
@@ -38,19 +38,19 @@ msgstr "######## 描述 ########\n"
 #: app_metadata.txt:9
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. From the plains of Weldyn to the forests of Wesmere, from the mines of Knalga to the soaring peaks of the Heart Mountains, take part in over a dozen adventures spanning centuries! Play as a young prince as he flees the encroaching forces of the Lich Lords to a new home across the sea... Delve into the blackest depths of the earth to craft a jewel of fire itself... Travel the continent in a daring quest to reclaim your rightful throne from a usurping queen... Step into the shoes of a young mage, his village beset by orcish invasion, as he seeks vengeance and immortality... Battle the undead hordes of a foul necromancer as he marches upon your capital... Lead a daring group of survivors across the blazing sands to a final confrontation with an unseen evil... The choice is up to you.\n"
-msgstr "韋諾之戰是一款開放原始碼且充滿奇幻風格的回合制策略遊戲。從維丁平原到韋斯彌爾森林，從納爾迦礦坑到直上天際的山嶺之心，在橫跨數個世紀之中參與十多場冒險。您可以扮演年輕的王子，逃離巫妖王的控制並建立新的家園...進入地底最深處為自己打造一顆火焰寶石...在大陸之中旅行並從女王手中奪回您應得的王位...扮演年輕的法師，為了家園對抗半獸人，並走上復仇及不朽之路...帶領您的國家對抗入侵家園的死靈法師...或者在炙熱的沙漠中領導倖存者抵抗未知的惡魔。一切由你決定。\n"
+msgstr "韋諾之戰是一款開放原始碼且充滿奇幻風格的回合制策略遊戲。從維爾丁平原到韋斯米爾森林，從納爾迦礦坑到直上天際的心之山脈，參與橫跨數個世紀的十多場冒險！您可以扮演年輕的王子，逃離巫妖王的侵略勢力，至大海的另一邊建立新家園……探入最黑暗的地底深處只為打造一顆火焰寶石……為了從篡位的王后手中重新奪回您應有的王位而在大陸上旅行……扮演一位年輕法師，他的村莊受到半獸人入侵的威脅，而追尋著復仇和不朽……在邪惡的死靈法師進攻您的首都的時候與其亡靈大軍戰鬥……帶領一群生存者跨越炙熱的沙漠，與前所未見的邪惡進行最後的對抗……由您來選擇。\n"
 
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
 msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
-msgstr "然後，來參與線上對戰吧！從七個實力相當的陣營之中選擇你想扮演的，並且與您的朋友在超過50個各種大小的多人地圖上對戰！\n"
+msgstr "然後，進行連線對戰吧！從七個實力相當的派系之中選擇你想扮演的，並且與您的朋友在超過 50 個各種大小的多人地圖上分出勝負！\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
 msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
-msgstr "探索數百個由玩家自行創作包含單人跟多人的戰役、地圖及陣營，而且您也可以嘗試製作屬於您自己的作品！韋諾之戰提供內建的地圖編輯器、模組相容性高的遊戲引擎、簡單並且直接的腳本語言以及友善又方便的模組社群。期待您能帶來更多的冒險！\n"
+msgstr "探索數百個由玩家自行創作包含單人跟多人的戰役、地圖及派系，而且您也可以自行嘗試製作您自己的！韋諾之戰提供內建的地圖編輯器、可模組化的遊戲引擎、簡單並且直覺的腳本語言，以及友善又富有熱情的模組社群。不知道您會帶來什麼樣的冒險！ \n"
 
 #. type: Plain text
 #: app_metadata.txt:16
