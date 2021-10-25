@@ -18,7 +18,7 @@ Luego, ¡embárquese en nuevas batallas en línea! ¡Escoja de entre siete facci
 
 Windows 7 SP1 o posterior
 
-OS X 10.8 o posterior
+OS X 10.11 or later
 
 Ubuntu 16.04 o compatible
 
@@ -36,6 +36,7 @@ Doble núcleo 2.0 GHz o mejor
 
 #### NOTAS ADICIONALES ####
 
+64-bit only
 
 ######## PLATAFORMAS SOPORTADAS - REQUISITOS RECOMENDADOS ########
 
@@ -43,9 +44,9 @@ Doble núcleo 2.0 GHz o mejor
 
 Windows 10
 
-macOS 10.10 o posterior
+macOS 10.15 or later
 
-Ubuntu 18.04 o compatible
+Ubuntu 20.04 or compatible
 
 #### PROCESADOR ####
 
@@ -61,5 +62,6 @@ Doble núcleo 3.2 GHz o mejor
 
 #### NOTAS ADICIONALES ####
 
+64-bit only
 
 ######## INFORMACIÓN LEGAL ########

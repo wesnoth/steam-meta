@@ -18,7 +18,7 @@ Explora centenas de campanhas, mapas e fações feitas pela comunidade ou tenta 
 
 Windows 7 SP1 ou superior
 
-OS X 10.8 ou superior
+OS X 10.11 or later
 
 Ubuntu 16.04 ou combatível
 
@@ -36,6 +36,7 @@ Dual-core 2.0 GHz ou melhor
 
 #### NOTAS ADICIONAIS ####
 
+64-bit only
 
 ######## PLATAFORMAS SUPORTADAS - REQUERIMENTOS RECOMENDADOS ########
 
@@ -43,9 +44,9 @@ Dual-core 2.0 GHz ou melhor
 
 Windows 10
 
-macOS 10.10 ou superior
+macOS 10.15 or later
 
-Ubuntu 18.04 ou compatível
+Ubuntu 20.04 or compatible
 
 #### PROCESSADOR ####
 
@@ -61,5 +62,6 @@ Dual-core 3.2 GHz ou melhor
 
 #### NOTAS ADICIONAIS ####
 
+64-bit only
 
 ######## INFORMAÇÕES LEGAIS ########

@@ -18,7 +18,7 @@ Fedezd fel a kreatív közösség által létrehozott egy- és többjátékos t�
 
 Windows 7 SP1 vagy újabb
 
-OS X 10.8 vagy újabb
+OS X 10.11 or later
 
 Ubuntu 16.04 vagy kompatibilis
 
@@ -36,6 +36,7 @@ Kétmagos 2.0 GHz vagy jobb
 
 #### TOVÁBBI MEGJEGYZÉSEK ####
 
+64-bit only
 
 ######## TÁMOGATOTT PLATFORMOK - AJÁNLOTT KÖVETELMÉNYEK ########
 
@@ -43,9 +44,9 @@ Kétmagos 2.0 GHz vagy jobb
 
 Windows 10
 
-macOS 10.10 vagy újabb
+macOS 10.15 or later
 
-Ubuntu 18.04 vagy kompatibilis
+Ubuntu 20.04 or compatible
 
 #### PROCESSZOR ####
 
@@ -61,5 +62,6 @@ Kétmagos 3.2 GHz vagy jobb
 
 #### TOVÁBBI MEGJEGYZÉSEK ####
 
+64-bit only
 
 ######## JOGI INFORMÁCIÓK ########

@@ -18,7 +18,7 @@ Esplora centinaia di contenuti creati dalla comunità degli utenti: fantastiche 
 
 Windows 7 SP1 o successivo
 
-OS X 10.8 o successivo
+OS X 10.11 or later
 
 Ubuntu 16.04 o compatibile
 
@@ -36,6 +36,7 @@ Dual-core 2.0 GHz o migliore
 
 #### NOTE ADDIZIONALI ####
 
+64-bit only
 
 ######## PIATTAFORME SUPPORTATE - REQUISITI CONSIGLIATI ########
 
@@ -43,9 +44,9 @@ Dual-core 2.0 GHz o migliore
 
 Windows 10
 
-macOS 10.10 o successivo
+macOS 10.15 or later
 
-Ubuntu 18.04 o compatibile
+Ubuntu 20.04 or compatible
 
 #### PROCESSORE ####
 
@@ -61,5 +62,6 @@ Dual-core 3.2 GHz o migliore
 
 #### NOTE ADDIZIONALI ####
 
+64-bit only
 
 ######## INFORMAZIONI LEGALI ########

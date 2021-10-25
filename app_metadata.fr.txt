@@ -18,7 +18,7 @@ Explorez les centaines de campagnes, cartes et factions solo ou multijoueur cré
 
 Windows 7 SP1 ou plus récent
 
-OS X 10.8 ou plus récent
+OS X 10.11 or later
 
 Ubuntu 16.04 ou équivalent
 
@@ -36,6 +36,7 @@ Dual-core 2.0 GHz ou mieux
 
 #### NOTES ADDITIONNELLES ####
 
+64-bit only
 
 ######## PLATEFORMES - CONFIGURATION RECOMMANDEE ########
 
@@ -43,9 +44,9 @@ Dual-core 2.0 GHz ou mieux
 
 Windows 10
 
-macOS 10.10 ou plus récent
+macOS 10.15 or later
 
-Ubuntu 18.04 ou équivalent
+Ubuntu 20.04 or compatible
 
 #### PROCESSEUR ####
 
@@ -61,5 +62,6 @@ Dual-core 3.2 GHz ou mieux
 
 #### NOTES ADDITIONNELLES ####
 
+64-bit only
 
 ######## INFORMATIONS LEGALES ########

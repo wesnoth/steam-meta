@@ -18,7 +18,7 @@ Entdeckt die vielen von der Community erstellten Kampagnen, Karten und Fraktione
 
 Windows 7 SP1 oder neuer
 
-OS X 10.8 oder neuer
+OS X 10.11 or later
 
 Ubuntu 16.04 oder gleichwertiges
 
@@ -36,6 +36,7 @@ Dual-core 2.0 GHz oder besser
 
 #### ZUSÄTZLICHE ANMERKUNGEN ####
 
+64-bit only
 
 ######## SYSTEMANFORDERUNGEN - EMPFOHLEN ########
 
@@ -43,9 +44,9 @@ Dual-core 2.0 GHz oder besser
 
 Windows 10
 
-macOS 10.10 oder neuer
+macOS 10.15 or later
 
-Ubuntu 18.04 oder gleichwertiges
+Ubuntu 20.04 or compatible
 
 #### PROZESSOR ####
 
@@ -61,5 +62,6 @@ Dual-core 3.2 GHz oder besser
 
 #### ZUSÄTZLICHE ANMERKUNGEN ####
 
+64-bit only
 
 ######## RECHTLICHE HINWEISE ########

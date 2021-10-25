@@ -18,7 +18,7 @@ Hem tek kişilik hem de çok oyunculu oyunlar için yüzlerce yaratıcı toplulu
 
 Windows 7 SP1 veya sonrası
 
-OS X 10.8 veya sonrası
+OS X 10.11 or later
 
 Ubuntu 16.04 veya uyumlu
 
@@ -36,6 +36,7 @@ Ubuntu 16.04 veya uyumlu
 
 #### EK NOTLAR ####
 
+64-bit only
 
 ######## DESTEKLENEN PLATFORMLAR - ÖNERİLEN GEREKSİNİMLER ########
 
@@ -43,9 +44,9 @@ Ubuntu 16.04 veya uyumlu
 
 Windows 10
 
-macOS 10.10 veya sonrası
+macOS 10.15 or later
 
-Ubuntu 18.04 veya uyumlu
+Ubuntu 20.04 or compatible
 
 #### İŞLEMCİ ####
 
@@ -61,5 +62,6 @@ Ubuntu 18.04 veya uyumlu
 
 #### EK NOTLAR ####
 
+64-bit only
 
 ######## YASAL BİLGİ ########

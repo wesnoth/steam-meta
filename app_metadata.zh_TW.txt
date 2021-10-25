@@ -18,7 +18,7 @@
 
 Windows 7 SP1 或更高
 
-OS X 10.8 或更高
+OS X 10.11 or later
 
 Ubuntu 16.04 或其他相容版本
 
@@ -36,6 +36,7 @@ Dual-core 2.0 GHz 或更好
 
 #### 其他備註 ####
 
+64-bit only
 
 ######## 支援平台 - 建議配備 ########
 
@@ -43,9 +44,9 @@ Dual-core 2.0 GHz 或更好
 
 Windows 10
 
-macOS 10.10 或更高
+macOS 10.15 or later
 
-Ubuntu 18.04 或其他相容版本
+Ubuntu 20.04 or compatible
 
 #### 處理器 ####
 
@@ -61,5 +62,6 @@ Dual-core 3.2 GHz 或更好
 
 #### 其他備註 ####
 
+64-bit only
 
 ######## 法律資訊 ########
