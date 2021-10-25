@@ -20,7 +20,7 @@ OUTPUT_STAMP := $(addprefix $(STAMPDIR)/, $(foreach lang, $(LANGUAGES), $(shell 
 PO4A_OPTIONS         = -f text -M utf-8 -o neverwrap
 PO4A_CATALOGUE_META  = --copyright-holder 'Wesnoth, Inc.' --package-name '$(DOMAIN)' --package-version 1.0.0
 # Do not change. This is deliberate.
-PO4A_THRESHOLD       = 100
+PO4A_THRESHOLD       = 80
 
 PO4A_UPDATEPO       := po4a-updatepo $(PO4A_OPTIONS) $(PO4A_CATALOGUE_META) -m $(TEMPLATE)
 PO4A_GETTEXTIZE     := po4a-gettextize $(PO4A_OPTIONS) $(PO4A_CATALOGUE_META) -L utf-8 -m $(TEMPLATE)
