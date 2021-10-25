@@ -1,11 +1,3 @@
-# translation of wesnoth-steam.po to Czech
-# Czech translations for Battle for Wesnoth package.
-# Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
-# Copyright (C) 2018 - 2020 Wesnoth development team
-# This file is distributed under the same license as the Battle for Wesnoth package.
-#
-# Czech Wesnoth translation team
-#
 # Martin Hrubý <hrubymar10@gmail.com>, 2018 - 2019.
 # Michal Žejdl <lachim@emer.cz>, 2020 - 2021.
 #
@@ -13,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-10-25 17:18-0300\n"
-"PO-Revision-Date: 2021-05-11 22:08+0200\n"
+"POT-Creation-Date: 2021-10-25 22:03+0200\n"
+"PO-Revision-Date: 2021-10-25 22:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -79,10 +71,9 @@ msgstr "Windows 7 SP1 nebo novější\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
-#, fuzzy, no-wrap
-#| msgid "OS X 10.8 or later\n"
+#, no-wrap
 msgid "OS X 10.11 or later\n"
-msgstr "OS X 10.8 nebo novější\n"
+msgstr "OS X 10.11 nebo novější\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
@@ -124,7 +115,7 @@ msgstr "#### DALŠÍ POZNÁMKY ####\n"
 #: app_metadata.txt:40 app_metadata.txt:66
 #, no-wrap
 msgid "64-bit only\n"
-msgstr ""
+msgstr "Pouze 64bitová verze\n"
 
 #. type: Plain text
 #: app_metadata.txt:42
@@ -140,17 +131,15 @@ msgstr "Windows 10\n"
 
 #. type: Plain text
 #: app_metadata.txt:48
-#, fuzzy, no-wrap
-#| msgid "macOS 10.10 or later\n"
+#, no-wrap
 msgid "macOS 10.15 or later\n"
-msgstr "macOS 10.10 nebo novější\n"
+msgstr "macOS 10.15 nebo novější\n"
 
 #. type: Plain text
 #: app_metadata.txt:50
-#, fuzzy, no-wrap
-#| msgid "Ubuntu 16.04 or compatible\n"
+#, no-wrap
 msgid "Ubuntu 20.04 or compatible\n"
-msgstr "Ubuntu 16.04 nebo kompatibilní\n"
+msgstr "Ubuntu 20.04 nebo kompatibilní\n"
 
 #. type: Plain text
 #: app_metadata.txt:54 app_metadata.txt:56 app_metadata.txt:58
@@ -163,7 +152,3 @@ msgstr "Dual-core 3.2 GHz nebo lepší\n"
 #, no-wrap
 msgid "######## LEGAL INFORMATION ########\n"
 msgstr "######## PRÁVNÍ INFORMACE ########\n"
-
-#, no-wrap
-#~ msgid "Ubuntu 18.04 or compatible\n"
-#~ msgstr "Ubuntu 18.04 nebo kompatibilní\n"

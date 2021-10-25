@@ -18,7 +18,7 @@ Prozkoumejte stovky nápaditých tažení, map a frakcí udělaných komunitou 
 
 Windows 7 SP1 nebo novější
 
-OS X 10.11 or later
+OS X 10.11 nebo novější
 
 Ubuntu 16.04 nebo kompatibilní
 
@@ -36,7 +36,7 @@ Dual-core 2.0 GHz nebo lepší
 
 #### DALŠÍ POZNÁMKY ####
 
-64-bit only
+Pouze 64bitová verze
 
 ######## PODPOROVANÉ PLATFORMY - DOPORUČENÉ POŽADAVKY ########
 
@@ -44,9 +44,9 @@ Dual-core 2.0 GHz nebo lepší
 
 Windows 10
 
-macOS 10.15 or later
+macOS 10.15 nebo novější
 
-Ubuntu 20.04 or compatible
+Ubuntu 20.04 nebo kompatibilní
 
 #### PROCESOR ####
 
@@ -62,6 +62,6 @@ Dual-core 3.2 GHz nebo lepší
 
 #### DALŠÍ POZNÁMKY ####
 
-64-bit only
+Pouze 64bitová verze
 
 ######## PRÁVNÍ INFORMACE ########
