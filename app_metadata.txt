@@ -18,7 +18,7 @@ Explore hundreds of creative community-made campaigns, maps, and factions for bo
 
 Windows 7 SP1 or later
 
-OS X 10.8 or later
+OS X 10.11 or later
 
 Ubuntu 16.04 or compatible
 
@@ -43,9 +43,9 @@ Dual-core 2.0 GHz or better
 
 Windows 10
 
-macOS 10.10 or later
+macOS 10.15 or later
 
-Ubuntu 18.04 or compatible
+Ubuntu 20.04 or compatible
 
 #### PROCESSOR ####
 
