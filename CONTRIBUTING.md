@@ -38,7 +38,7 @@ Submitting translations via email
 ---------------------------------
 
 You can send translation updates directly to the maintainer of this repository,
-shadowm/shikadiqueen (`Iris Morelle <shadowm2006@gmail.com`). Make sure to
+Irydacea/shadowm (`Iris Morelle <shadowm2006@gmail.com`). Make sure to
 use the original filename intended for the catalogue once added to the
 repository (e.g. `es.po`, `zh_CN.po`).
 
