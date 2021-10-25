@@ -1,0 +1,67 @@
+######## SAMENVATTING ########
+
+De Strijd om Wesnoth is een open source, turn-based strategiespel dat zich afspeelt in een fantasie-setting. Ontdek de vier windstreken van Irdya in zeventien veldtochten en tientallen multiplayer-kaarten, terwijl je duizelingwekkende avonturen beleeft.
+
+
+######## BESCHRIJVING ########
+
+De Strijd om Wesnoth is een open source, turn-based strategiespel dat zich afspeelt in een fantasie-setting. Van de vlaktes van Weldyn tot de bossen van Wesmere, van de mijnen van Knalga tot de torenhoge pieken van de Hartbergen, wordt onderdeel van tientallen avonturen die zich gedurende een eeuwenlange periode afspelen. Speel als een jonge prins terwijl hij vlucht voor de oprukkende troepen van de herrezen magiërs naar een nieuw thuis aan de andere kant van de zee... Graaf naar de donkerste diepten van de wereld om van het vuur een edelsteen te maken... Reis door het continent in een uitdagende zoektocht om je rechtmatige troon terug te eisen van een -door machtsgreep geworden- koningin... Kruip in de huid van een jonge magiër terwijl zijn dorp wordt aangevallen door orks, en ga naast wraak ook op zoek naar onsterfelijkheid... Vecht tegen de groepen ondoden van een smerige dodenbezweerder terwijl hij op je hoofdstad afkomt... Leid een groep overlevenden over het laaiende zand naar een laatste confrontatie met een onzichtbaar kwaad... Jij hebt de keuze in de hand.
+
+Ga vervolgens de strijd online aan! Kies uit zeven volledig uitgebalanceerde facties en vecht het uit met je vrienden op meer dan 50 multiplayer-kaarten, voor groepen groot en klein!
+
+Verken honderden creatieve, door de community gemaakte veldtochten, kaarten en facties voor zowel single- als multiplayer, en probeer er zelf een te maken! Wesnoth heeft een ingebouwde kaarteditor, een zeer aanpasbare engine, een eenvoudige en intuïtieve scripttaal en een vriendelijke en toegewijde modding-community. De avonturen die je tot leven kan brengen zijn ontelbaar!
+
+
+######## ONDERSTEUNDE PLATFORMEN - MINIMALE VEREISTEN ########
+
+#### OS VERSIE ####
+
+Windows 7 SP1 of later
+
+OS X 10.11 or later
+
+Ubuntu 16.04 of compatibel
+
+#### PROCESSOR ####
+
+Dual-core 2.0 GHz of beter
+
+Dual-core 2.0 GHz of beter
+
+Dual-core 2.0 GHz of beter
+
+#### GRAPHICS ####
+
+#### GELUIDSKAART ####
+
+#### AANVULLENDE OPMERKINGEN ####
+
+64-bit only
+
+######## ONDERSTEUNDE PLATFORMEN - AANBEVOLEN VEREISTEN ########
+
+#### OS VERSIE ####
+
+Windows 10
+
+macOS 10.15 or later
+
+Ubuntu 20.04 or compatible
+
+#### PROCESSOR ####
+
+Dual-core 3.2 GHz of beter
+
+Dual-core 3.2 GHz of beter
+
+Dual-core 3.2 GHz of beter
+
+#### GRAPHICS ####
+
+#### GELUIDSKAART ####
+
+#### AANVULLENDE OPMERKINGEN ####
+
+64-bit only
+
+######## JURIDISCHE INFORMATIE ########
