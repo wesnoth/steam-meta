@@ -38,11 +38,6 @@ Dual-core 2.0 GHz or better
 
 64-bit only
 
-
-
-
-
-
 ######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########
 
 #### OS VERSION ####
@@ -68,10 +63,5 @@ Dual-core 3.2 GHz or better
 #### ADDITIONAL NOTES ####
 
 64-bit only
-
-
-
-
-
 
 ######## LEGAL INFORMATION ########
