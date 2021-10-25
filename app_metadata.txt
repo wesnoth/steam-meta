@@ -36,6 +36,12 @@ Dual-core 2.0 GHz or better
 
 #### ADDITIONAL NOTES ####
 
+64-bit only
+
+
+
+
+
 
 ######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########
 
@@ -60,6 +66,12 @@ Dual-core 3.2 GHz or better
 #### SOUND CARD ####
 
 #### ADDITIONAL NOTES ####
+
+64-bit only
+
+
+
+
 
 
 ######## LEGAL INFORMATION ########
