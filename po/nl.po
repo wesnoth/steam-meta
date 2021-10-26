@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2021-10-25 17:21-0300\n"
-"PO-Revision-Date: 2021-10-25 22:03+0200\n"
+"PO-Revision-Date: 2021-10-26 21:56+0200\n"
 "Last-Translator: Merijn de Vet <tybonzer@live.nl>\n"
 "Language-Team: Dutch Team (Merijn de Vet)\n"
 "Language: nl\n"
@@ -73,10 +73,9 @@ msgstr "Windows 7 SP1 of later\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
-#, fuzzy, no-wrap
-#| msgid "OS X 10.8 or later\n"
+#, no-wrap
 msgid "OS X 10.11 or later\n"
-msgstr "OS X 10.8 of later\n"
+msgstr "OS X 10.11 of later\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
@@ -118,7 +117,7 @@ msgstr "#### AANVULLENDE OPMERKINGEN ####\n"
 #: app_metadata.txt:40 app_metadata.txt:66
 #, no-wrap
 msgid "64-bit only\n"
-msgstr ""
+msgstr "Alleen 64-bit\n"
 
 #. type: Plain text
 #: app_metadata.txt:42
@@ -134,17 +133,15 @@ msgstr "Windows 10\n"
 
 #. type: Plain text
 #: app_metadata.txt:48
-#, fuzzy, no-wrap
-#| msgid "macOS 10.10 or later\n"
+#, no-wrap
 msgid "macOS 10.15 or later\n"
-msgstr "macOS 10.10 of later\n"
+msgstr "macOS 10.15 of later\n"
 
 #. type: Plain text
 #: app_metadata.txt:50
-#, fuzzy, no-wrap
-#| msgid "Ubuntu 16.04 or compatible\n"
+#, no-wrap
 msgid "Ubuntu 20.04 or compatible\n"
-msgstr "Ubuntu 16.04 of compatibel\n"
+msgstr "Ubuntu 20.04 of compatibel\n"
 
 #. type: Plain text
 #: app_metadata.txt:54 app_metadata.txt:56 app_metadata.txt:58

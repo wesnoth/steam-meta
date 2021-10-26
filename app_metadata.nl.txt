@@ -18,7 +18,7 @@ Verken honderden creatieve, door de community gemaakte veldtochten, kaarten en f
 
 Windows 7 SP1 of later
 
-OS X 10.11 or later
+OS X 10.11 of later
 
 Ubuntu 16.04 of compatibel
 
@@ -36,7 +36,7 @@ Dual-core 2.0 GHz of beter
 
 #### AANVULLENDE OPMERKINGEN ####
 
-64-bit only
+Alleen 64-bit
 
 ######## ONDERSTEUNDE PLATFORMEN - AANBEVOLEN VEREISTEN ########
 
@@ -44,9 +44,9 @@ Dual-core 2.0 GHz of beter
 
 Windows 10
 
-macOS 10.15 or later
+macOS 10.15 of later
 
-Ubuntu 20.04 or compatible
+Ubuntu 20.04 of compatibel
 
 #### PROCESSOR ####
 
@@ -62,6 +62,6 @@ Dual-core 3.2 GHz of beter
 
 #### AANVULLENDE OPMERKINGEN ####
 
-64-bit only
+Alleen 64-bit
 
 ######## JURIDISCHE INFORMATIE ########
