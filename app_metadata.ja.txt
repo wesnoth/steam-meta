@@ -18,9 +18,9 @@ The Battle for Wesnoth はハイファンタジーをテーマとしたターン
 
 Windows 7 SP1 以降
 
-OS X 10.11 or later
+OS X 10.11 以降
 
-Ubuntu 16.04 互換システム
+Ubuntu 16.04 およびその互換システム
 
 #### プロセッサ ####
 
@@ -36,7 +36,7 @@ Dual-core 2.0 GHz 以上
 
 #### メモ ####
 
-64-bit only
+64-bit のみ
 
 ######## 動作プラットフォーム - 推奨要求 ########
 
@@ -44,9 +44,9 @@ Dual-core 2.0 GHz 以上
 
 Windows 10
 
-macOS 10.15 or later
+macOS 10.15 以降
 
-Ubuntu 20.04 or compatible
+Ubuntu 20.04 およびその互換システム
 
 #### プロセッサ ####
 
@@ -62,6 +62,6 @@ Dual-core 3.2 GHz 以上
 
 #### メモ ####
 
-64-bit only
+64-bit のみ
 
 ######## 法的な情報 ########
