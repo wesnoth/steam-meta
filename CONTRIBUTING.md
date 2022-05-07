@@ -37,10 +37,9 @@ maintainer or become one yourself.
 Submitting translations via email
 ---------------------------------
 
-You can send translation updates directly to the maintainer of this repository,
-Irydacea/shadowm (`Iris Morelle <shadowm2006@gmail.com`). Make sure to
-use the original filename intended for the catalogue once added to the
-repository (e.g. `es.po`, `zh_CN.po`).
+You can send translation updates directly to the current project lead, 
+as stated at https://wiki.wesnoth.org/Project. Make sure to use the original 
+filename intended for the catalogue once added to the repository (e.g. `es.po`, `zh_CN.po`).
 
 
 Submitting translations via issue tickets

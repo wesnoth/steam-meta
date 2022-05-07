@@ -23,7 +23,7 @@ Build instructions
 ------------------
 
 ```
-# Does all of the tasks below (except clean and distclean) in a single step.
+# Do all of the tasks below (except clean and distclean) in a single step.
 make
 
 # Updates the catalogue template.
