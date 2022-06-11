@@ -18,7 +18,7 @@ Entdeckt die vielen von der Community erstellten Kampagnen, Karten und Fraktione
 
 Windows 7 SP1 oder neuer
 
-OS X 10.11 or later
+OS X 10.12 or later
 
 Ubuntu 16.04 oder gleichwertiges
 

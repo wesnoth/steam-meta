@@ -18,7 +18,7 @@ Hem tek kişilik hem de çok oyunculu oyunlar için yüzlerce yaratıcı toplulu
 
 Windows 7 SP1 veya sonrası
 
-OS X 10.11 or later
+OS X 10.12 or later
 
 Ubuntu 16.04 veya uyumlu
 

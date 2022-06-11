@@ -18,7 +18,7 @@ Luego, ¡embárquese en nuevas batallas en línea! ¡Escoja de entre siete facci
 
 Windows 7 SP1 o posterior
 
-OS X 10.11 or later
+OS X 10.12 or later
 
 Ubuntu 16.04 o compatible
 

@@ -18,7 +18,7 @@ Explorez les centaines de campagnes, cartes et factions solo ou multijoueur cré
 
 Windows 7 SP1 ou plus récent
 
-OS X 10.11 or later
+OS X 10.12 or later
 
 Ubuntu 16.04 ou équivalent
 

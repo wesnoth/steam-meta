@@ -18,7 +18,7 @@ Prozkoumejte stovky nápaditých tažení, map a frakcí udělaných komunitou 
 
 Windows 7 SP1 nebo novější
 
-OS X 10.11 nebo novější
+OS X 10.12 nebo novější
 
 Ubuntu 16.04 nebo kompatibilní
 

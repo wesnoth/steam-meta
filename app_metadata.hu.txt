@@ -18,7 +18,7 @@ Fedezd fel a kreatív közösség által létrehozott egy- és többjátékos t�
 
 Windows 7 SP1 vagy újabb
 
-OS X 10.11 or later
+OS X 10.12 or later
 
 Ubuntu 16.04 vagy kompatibilis
 

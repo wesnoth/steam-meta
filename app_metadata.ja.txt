@@ -18,7 +18,7 @@ The Battle for Wesnoth はハイファンタジーをテーマとしたターン
 
 Windows 7 SP1 以降
 
-OS X 10.11 以降
+OS X 10.12 以降
 
 Ubuntu 16.04 およびその互換システム
 
