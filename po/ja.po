@@ -74,14 +74,14 @@ msgstr "#### OS バージョン ####\n"
 #, fuzzy, no-wrap
 #| msgid "Windows 7 SP1 or later\n"
 msgid "Windows 10 1903 or later\n"
-msgstr "Windows 7 SP1 以降\n"
+msgstr "Windows 10 1903 以降\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
 #, fuzzy, no-wrap
 #| msgid "OS X 10.11 or later\n"
 msgid "OS X 10.12 or later\n"
-msgstr "OS X 10.11 以降\n"
+msgstr "OS X 10.12 以降\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
@@ -142,7 +142,7 @@ msgstr "macOS 10.15 以降\n"
 #, fuzzy, no-wrap
 #| msgid "Ubuntu 20.04 or compatible\n"
 msgid "Ubuntu 22.04 or compatible\n"
-msgstr "Ubuntu 20.04 およびその互換システム\n"
+msgstr "Ubuntu 22.04 およびその互換システム\n"
 
 #. type: Plain text
 #: app_metadata.txt:54 app_metadata.txt:56 app_metadata.txt:58

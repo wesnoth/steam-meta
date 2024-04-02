@@ -69,21 +69,21 @@ msgstr "#### 作業系統版本 ####\n"
 #, fuzzy, no-wrap
 #| msgid "Windows 7 SP1 or later\n"
 msgid "Windows 10 1903 or later\n"
-msgstr "Windows 7 SP1 或更高\n"
+msgstr "Windows 10 1903 或更高\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
 #, fuzzy, no-wrap
 #| msgid "OS X 10.8 or later\n"
 msgid "OS X 10.12 or later\n"
-msgstr "OS X 10.8 或更高\n"
+msgstr "OS X 10.12 或更高\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
 #, fuzzy, no-wrap
 #| msgid "Ubuntu 16.04 or compatible\n"
 msgid "Ubuntu 20.04 or compatible\n"
-msgstr "Ubuntu 16.04 或其他相容版本\n"
+msgstr "Ubuntu 20.04 或其他相容版本\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:52
@@ -119,7 +119,7 @@ msgstr "#### 其他備註 ####\n"
 #: app_metadata.txt:40 app_metadata.txt:66
 #, no-wrap
 msgid "64-bit only\n"
-msgstr ""
+msgstr "僅 64 位元\n"
 
 #. type: Plain text
 #: app_metadata.txt:42
@@ -132,14 +132,14 @@ msgstr "######## 支援平台 - 建議配備 ########\n"
 #, fuzzy, no-wrap
 #| msgid "macOS 10.10 or later\n"
 msgid "macOS 10.15 or later\n"
-msgstr "macOS 10.10 或更高\n"
+msgstr "macOS 10.15 或更高\n"
 
 #. type: Plain text
 #: app_metadata.txt:50
 #, fuzzy, no-wrap
 #| msgid "Ubuntu 16.04 or compatible\n"
 msgid "Ubuntu 22.04 or compatible\n"
-msgstr "Ubuntu 16.04 或其他相容版本\n"
+msgstr "Ubuntu 22.04 或其他相容版本\n"
 
 #. type: Plain text
 #: app_metadata.txt:54 app_metadata.txt:56 app_metadata.txt:58

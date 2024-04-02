@@ -64,21 +64,21 @@ msgstr "#### BETRIEBSSYSTEM ####\n"
 #, fuzzy, no-wrap
 #| msgid "Windows 7 SP1 or later\n"
 msgid "Windows 10 1903 or later\n"
-msgstr "Windows 7 SP1 oder neuer\n"
+msgstr "Windows 10 1903 oder neuer\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
 #, fuzzy, no-wrap
 #| msgid "OS X 10.8 or later\n"
 msgid "OS X 10.12 or later\n"
-msgstr "OS X 10.8 oder neuer\n"
+msgstr "OS X 10.12 oder neuer\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
 #, fuzzy, no-wrap
 #| msgid "Ubuntu 16.04 or compatible\n"
 msgid "Ubuntu 20.04 or compatible\n"
-msgstr "Ubuntu 16.04 oder gleichwertiges\n"
+msgstr "Ubuntu 20.04 oder gleichwertiges\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:52
@@ -114,7 +114,7 @@ msgstr "#### ZUSÄTZLICHE ANMERKUNGEN ####\n"
 #: app_metadata.txt:40 app_metadata.txt:66
 #, no-wrap
 msgid "64-bit only\n"
-msgstr ""
+msgstr "Nur 64-Bit\n"
 
 #. type: Plain text
 #: app_metadata.txt:42
@@ -127,14 +127,14 @@ msgstr "######## SYSTEMANFORDERUNGEN - EMPFOHLEN ########\n"
 #, fuzzy, no-wrap
 #| msgid "macOS 10.10 or later\n"
 msgid "macOS 10.15 or later\n"
-msgstr "macOS 10.10 oder neuer\n"
+msgstr "macOS 10.15 oder neuer\n"
 
 #. type: Plain text
 #: app_metadata.txt:50
 #, fuzzy, no-wrap
 #| msgid "Ubuntu 16.04 or compatible\n"
 msgid "Ubuntu 22.04 or compatible\n"
-msgstr "Ubuntu 16.04 oder gleichwertiges\n"
+msgstr "Ubuntu 22.04 oder gleichwertiges\n"
 
 #. type: Plain text
 #: app_metadata.txt:54 app_metadata.txt:56 app_metadata.txt:58
