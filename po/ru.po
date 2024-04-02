@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2024-04-02 12:43-0500\n"
+"POT-Creation-Date: 2024-04-02 12:47-0500\n"
 "PO-Revision-Date: 2021-10-25 23:46+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -66,9 +66,10 @@ msgid "#### OS VERSION ####\n"
 msgstr "#### ВЕРСИЯ СИСТЕМЫ ####\n"
 
 #. type: Plain text
-#: app_metadata.txt:20
-#, no-wrap
-msgid "Windows 7 SP1 or later\n"
+#: app_metadata.txt:20 app_metadata.txt:46
+#, fuzzy, no-wrap
+#| msgid "Windows 7 SP1 or later\n"
+msgid "Windows 10 1903 or later\n"
 msgstr "Windows 7 SP1 или новее\n"
 
 #. type: Plain text
@@ -81,8 +82,8 @@ msgstr "OS X 10.11 или новее\n"
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
-msgid "Ubuntu 16.04 or compatible\n"
-msgstr "Ubuntu 16.04 или совместимая с ней\n"
+msgid "Ubuntu 20.04 or compatible\n"
+msgstr "Ubuntu 20.04 или совместимая с ней\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:52
@@ -127,12 +128,6 @@ msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########\n"
 msgstr "######## ПОДДЕРЖИВАЕМЫЕ ПЛАТФОРМЫ - РЕКОМЕНДОВАНЫЕ ТРЕБОВАНИЯ ########\n"
 
 #. type: Plain text
-#: app_metadata.txt:46
-#, no-wrap
-msgid "Windows 10\n"
-msgstr "Windows 10\n"
-
-#. type: Plain text
 #: app_metadata.txt:48
 #, no-wrap
 msgid "macOS 10.15 or later\n"
@@ -140,8 +135,9 @@ msgstr "macOS 10.15 или новее\n"
 
 #. type: Plain text
 #: app_metadata.txt:50
-#, no-wrap
-msgid "Ubuntu 20.04 or compatible\n"
+#, fuzzy, no-wrap
+#| msgid "Ubuntu 20.04 or compatible\n"
+msgid "Ubuntu 22.04 or compatible\n"
 msgstr "Ubuntu 20.04 или совместимая с ней\n"
 
 #. type: Plain text
@@ -155,6 +151,14 @@ msgstr "3.2 ГГц, 2 ядра и лучше\n"
 #, no-wrap
 msgid "######## LEGAL INFORMATION ########\n"
 msgstr "######## ЮРИДИЧЕСКИЕ СВЕДЕНИЯ ########\n"
+
+#, no-wrap
+#~ msgid "Ubuntu 16.04 or compatible\n"
+#~ msgstr "Ubuntu 16.04 или совместимая с ней\n"
+
+#, no-wrap
+#~ msgid "Windows 10\n"
+#~ msgstr "Windows 10\n"
 
 #, no-wrap
 #~ msgid "Ubuntu 18.04 or compatible\n"

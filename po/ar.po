@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2024-04-02 12:42-0500\n"
+"POT-Creation-Date: 2024-04-02 12:47-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,9 +65,9 @@ msgid "#### OS VERSION ####\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:20
+#: app_metadata.txt:20 app_metadata.txt:46
 #, no-wrap
-msgid "Windows 7 SP1 or later\n"
+msgid "Windows 10 1903 or later\n"
 msgstr ""
 
 #. type: Plain text
@@ -79,7 +79,7 @@ msgstr ""
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
-msgid "Ubuntu 16.04 or compatible\n"
+msgid "Ubuntu 20.04 or compatible\n"
 msgstr ""
 
 #. type: Plain text
@@ -125,12 +125,6 @@ msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########\n"
 msgstr ""
 
 #. type: Plain text
-#: app_metadata.txt:46
-#, no-wrap
-msgid "Windows 10\n"
-msgstr ""
-
-#. type: Plain text
 #: app_metadata.txt:48
 #, no-wrap
 msgid "macOS 10.15 or later\n"
@@ -139,7 +133,7 @@ msgstr ""
 #. type: Plain text
 #: app_metadata.txt:50
 #, no-wrap
-msgid "Ubuntu 20.04 or compatible\n"
+msgid "Ubuntu 22.04 or compatible\n"
 msgstr ""
 
 #. type: Plain text

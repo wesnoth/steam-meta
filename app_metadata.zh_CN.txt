@@ -16,11 +16,11 @@
 
 #### 操作系统版本 ####
 
-Windows 7 SP1 或更高
+Windows 10 1903 or later
 
 OS X 10.12 or later
 
-Ubuntu 16.04 或兼容系统
+Ubuntu 20.04 或兼容系统
 
 #### 处理器 ####
 
@@ -42,11 +42,11 @@ Ubuntu 16.04 或兼容系统
 
 #### 操作系统版本 ####
 
-Windows 10
+Windows 10 1903 or later
 
 macOS 10.15 或更高
 
-Ubuntu 20.04 或兼容系统
+Ubuntu 22.04 or compatible
 
 #### 处理器 ####
 

@@ -16,11 +16,11 @@ Explore hundreds of creative community-made campaigns, maps, and factions for bo
 
 #### OS VERSION ####
 
-Windows 7 SP1 or later
+Windows 10 1903 or later
 
 OS X 10.12 or later
 
-Ubuntu 16.04 or compatible
+Ubuntu 20.04 or compatible
 
 #### PROCESSOR ####
 
@@ -42,11 +42,11 @@ Dual-core 2.0 GHz or better
 
 #### OS VERSION ####
 
-Windows 10
+Windows 10 1903 or later
 
 macOS 10.15 or later
 
-Ubuntu 20.04 or compatible
+Ubuntu 22.04 or compatible
 
 #### PROCESSOR ####
 

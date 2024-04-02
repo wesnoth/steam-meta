@@ -16,11 +16,11 @@ Prozkoumejte stovky nápaditých tažení, map a frakcí udělaných komunitou 
 
 #### VERZE OPERAČNÍHO SYSTÉMU ####
 
-Windows 7 SP1 nebo novější
+Windows 10 1903 or later
 
 OS X 10.12 or later
 
-Ubuntu 16.04 nebo kompatibilní
+Ubuntu 20.04 nebo kompatibilní
 
 #### PROCESOR ####
 
@@ -42,11 +42,11 @@ Pouze 64bitová verze
 
 #### VERZE OPERAČNÍHO SYSTÉMU ####
 
-Windows 10
+Windows 10 1903 or later
 
 macOS 10.15 nebo novější
 
-Ubuntu 20.04 nebo kompatibilní
+Ubuntu 22.04 or compatible
 
 #### PROCESOR ####
 

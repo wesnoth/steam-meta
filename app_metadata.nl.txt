@@ -16,11 +16,11 @@ Verken honderden creatieve, door de community gemaakte veldtochten, kaarten en f
 
 #### OS VERSIE ####
 
-Windows 7 SP1 of later
+Windows 10 1903 or later
 
 OS X 10.12 or later
 
-Ubuntu 16.04 of compatibel
+Ubuntu 20.04 of compatibel
 
 #### PROCESSOR ####
 
@@ -42,11 +42,11 @@ Alleen 64-bit
 
 #### OS VERSIE ####
 
-Windows 10
+Windows 10 1903 or later
 
 macOS 10.15 of later
 
-Ubuntu 20.04 of compatibel
+Ubuntu 22.04 or compatible
 
 #### PROCESSOR ####
 
