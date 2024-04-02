@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: westnothsteam\n"
-"POT-Creation-Date: 2021-10-25 17:18-0300\n"
+"POT-Creation-Date: 2024-04-02 12:42-0500\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Aaron Winter <winter.aaron93@gmail.com>\n"
 "Language-Team: irc://irc.freenode.net/#wesnoth-de\n"
@@ -69,7 +69,7 @@ msgstr "Windows 7 SP1 oder neuer\n"
 #: app_metadata.txt:22
 #, fuzzy, no-wrap
 #| msgid "OS X 10.8 or later\n"
-msgid "OS X 10.11 or later\n"
+msgid "OS X 10.12 or later\n"
 msgstr "OS X 10.8 oder neuer\n"
 
 #. type: Plain text

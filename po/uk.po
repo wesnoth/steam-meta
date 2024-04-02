@@ -8,13 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
 "POT-Creation-Date: 2021-10-25 17:18-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2024-04-02 20:34+0300\n"
+"Last-Translator: Oleksii Okhrimenko(lexa04) <e-mail: ohrimale@gmail.com discord: amakri>\n"
+"Language-Team: \n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. type: Plain text
 #: app_metadata.txt:2
@@ -26,7 +27,7 @@ msgstr ""
 #: app_metadata.txt:4
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
-msgstr ""
+msgstr "The Battle for Wesnoth це покрокова стратегія з відкритим кодом, що опирається на тему високого фентезі. Досліджуйте просторий світ Ірдії в сімнадцяти кампаніях на одного гравця, а також в безлічі багатокористувацьких мап, беручи участь в нескінчених пригодах.\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
@@ -38,19 +39,19 @@ msgstr ""
 #: app_metadata.txt:9
 #, no-wrap
 msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. From the plains of Weldyn to the forests of Wesmere, from the mines of Knalga to the soaring peaks of the Heart Mountains, take part in over a dozen adventures spanning centuries! Play as a young prince as he flees the encroaching forces of the Lich Lords to a new home across the sea... Delve into the blackest depths of the earth to craft a jewel of fire itself... Travel the continent in a daring quest to reclaim your rightful throne from a usurping queen... Step into the shoes of a young mage, his village beset by orcish invasion, as he seeks vengeance and immortality... Battle the undead hordes of a foul necromancer as he marches upon your capital... Lead a daring group of survivors across the blazing sands to a final confrontation with an unseen evil... The choice is up to you.\n"
-msgstr ""
+msgstr "The Battle for Wesnoth це покрокова стратегія з відкритим кодом, що опирається на тему високого фентезі. Від рівнин Велдину до лісів Весміру, з глибин копалень Кналга до ширяючих вершин Гір Серця, беріть участь у більш ніж десятці пригод, що охоплюють століття! Грайте за молодого принца, що тікає від загарбницьких сил Владик-Лічей, щоб знайти новий дім на тій стороні моря... Заглиблюйтесь у найтемніші глибини землі, щоб створити коштовність з самого вогню... Подорожуйте континентом зі зухвалою метою повернути собі законний престол, який захопила королева-узурпаторка... Візьміть на себе роль молодого мага, його селище зазнало оркського вторгнення, тож він вирушає на пошуки помсти та безсмертя... Бийтеся з легіонами мерців мерзенного некроманта, який стрімко наступає на вашу столицю... Ведіть сміливу групу вцілілих через палаючі піски, щоб в кінці зустрітися з небаченим раніше злом... Вибір за вами.\n"
 
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
 msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
-msgstr ""
+msgstr "Також доєднуйтеся до битв по мережі! Обирайте з семи повністю збалансованих фракцій та боріться зі своїми друзями на більш ніж 50 мультиплеєрних мапах, які задовольнять групу будь-якого розміру!\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
 msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
-msgstr ""
+msgstr "Досліджуйте сотні захоплюючих користувацьких кампаній, мап та карт, що були зроблені як для одиночної гри, так і мультиплеєру, а також спробуйте створити щось власноруч! Веснот має вбудований редактор мап, рушій, що підтримує модифікації, просту та зрозумілу мову скриптів, а також дружню та віддану спільноту розробників модів. Неможливо передбачити, які пригоди ви можете втілити в життя!\n"
 
 #. type: Plain text
 #: app_metadata.txt:16
@@ -68,19 +69,19 @@ msgstr ""
 #: app_metadata.txt:20
 #, no-wrap
 msgid "Windows 7 SP1 or later\n"
-msgstr ""
+msgstr "Windows 7 SP1 або пізніша\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
 #, no-wrap
 msgid "OS X 10.11 or later\n"
-msgstr ""
+msgstr "OS X 10.11 або пізніша\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
 #, no-wrap
 msgid "Ubuntu 16.04 or compatible\n"
-msgstr ""
+msgstr "Ubuntu 16.04 або сумісна ОС\n"
 
 #. type: Plain text
 #: app_metadata.txt:26 app_metadata.txt:52
@@ -92,7 +93,7 @@ msgstr ""
 #: app_metadata.txt:28 app_metadata.txt:30 app_metadata.txt:32
 #, no-wrap
 msgid "Dual-core 2.0 GHz or better\n"
-msgstr ""
+msgstr "Dual-core 2.0 GHz або краще\n"
 
 #. type: Plain text
 #: app_metadata.txt:34 app_metadata.txt:60
@@ -116,7 +117,7 @@ msgstr ""
 #: app_metadata.txt:40 app_metadata.txt:66
 #, no-wrap
 msgid "64-bit only\n"
-msgstr ""
+msgstr "лише 64-bit\n"
 
 #. type: Plain text
 #: app_metadata.txt:42
@@ -128,25 +129,25 @@ msgstr ""
 #: app_metadata.txt:46
 #, no-wrap
 msgid "Windows 10\n"
-msgstr ""
+msgstr "Windows 10\n"
 
 #. type: Plain text
 #: app_metadata.txt:48
 #, no-wrap
 msgid "macOS 10.15 or later\n"
-msgstr ""
+msgstr "macOS 10.15 або пізніша версія\n"
 
 #. type: Plain text
 #: app_metadata.txt:50
 #, no-wrap
 msgid "Ubuntu 20.04 or compatible\n"
-msgstr ""
+msgstr "Ubuntu 20.04 або сумісна ОС\n"
 
 #. type: Plain text
 #: app_metadata.txt:54 app_metadata.txt:56 app_metadata.txt:58
 #, no-wrap
 msgid "Dual-core 3.2 GHz or better\n"
-msgstr ""
+msgstr "Dual-core 3.2 GHz або краще\n"
 
 #. type: Plain text
 #: app_metadata.txt:67

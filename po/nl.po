@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2021-10-25 17:21-0300\n"
+"POT-Creation-Date: 2024-04-02 12:43-0500\n"
 "PO-Revision-Date: 2021-10-26 21:56+0200\n"
 "Last-Translator: Merijn de Vet <tybonzer@live.nl>\n"
 "Language-Team: Dutch Team (Merijn de Vet)\n"
@@ -73,8 +73,9 @@ msgstr "Windows 7 SP1 of later\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
-#, no-wrap
-msgid "OS X 10.11 or later\n"
+#, fuzzy, no-wrap
+#| msgid "OS X 10.11 or later\n"
+msgid "OS X 10.12 or later\n"
 msgstr "OS X 10.11 of later\n"
 
 #. type: Plain text

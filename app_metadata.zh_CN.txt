@@ -18,7 +18,7 @@
 
 Windows 7 SP1 或更高
 
-OS X 10.12 或更高
+OS X 10.12 or later
 
 Ubuntu 16.04 或兼容系统
 

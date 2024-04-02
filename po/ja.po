@@ -2,22 +2,23 @@
 # Copyright (C) YEAR Wesnoth, Inc.
 # This file is distributed under the same license as the wesnoth-steam-meta package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # RatArmy, 2021
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-steam-meta 1.0.0\n"
-"POT-Creation-Date: 2021-10-25 17:18-0300\n"
+"POT-Creation-Date: 2024-04-02 12:42-0500\n"
 "PO-Revision-Date: 2018-04-23 02:59+0000\n"
 "Last-Translator: RatArmy, 2021\n"
-"Language-Team: Japanese (https://www.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
+"Language-Team: Japanese (https://www.transifex.com/wesnoth-jp/teams/60513/"
+"ja/)\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. type: Plain text
@@ -29,15 +30,8 @@ msgstr "######## 概要 ########\n"
 #. type: Plain text
 #: app_metadata.txt:4
 #, no-wrap
-msgid ""
-"The Battle for Wesnoth is an open source, turn-based strategy game with a "
-"high fantasy theme. Explore the four corners of Irdya in seventeen solo "
-"campaigns and dozens of multiplayer maps, taking part in countless "
-"adventures as you go.\n"
-msgstr ""
-"The Battle for Wesnoth "
-"は、ハイファンタジーをテーマとしたターンベースの戦略ゲームであり、オープンソースソフトウェアです。17の1人プレイキャンペーンや多数のマルチプレイヤーマップで、Irdya"
-" をすみずみまで探索しましょう。それらの他にも、数えきれないほどの冒険があなたを待っています。\n"
+msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.\n"
+msgstr "The Battle for Wesnoth は、ハイファンタジーをテーマとしたターンベースの戦略ゲームであり、オープンソースソフトウェアです。17の1人プレイキャンペーンや多数のマルチプレイヤーマップで、Irdya をすみずみまで探索しましょう。それらの他にも、数えきれないほどの冒険があなたを待っています。\n"
 
 #. type: Plain text
 #: app_metadata.txt:7
@@ -48,46 +42,20 @@ msgstr "######## 説明 ########\n"
 #. type: Plain text
 #: app_metadata.txt:9
 #, no-wrap
-msgid ""
-"The Battle for Wesnoth is an open source, turn-based strategy game with a "
-"high fantasy theme. From the plains of Weldyn to the forests of Wesmere, "
-"from the mines of Knalga to the soaring peaks of the Heart Mountains, take "
-"part in over a dozen adventures spanning centuries! Play as a young prince "
-"as he flees the encroaching forces of the Lich Lords to a new home across "
-"the sea... Delve into the blackest depths of the earth to craft a jewel of "
-"fire itself... Travel the continent in a daring quest to reclaim your "
-"rightful throne from a usurping queen... Step into the shoes of a young "
-"mage, his village beset by orcish invasion, as he seeks vengeance and "
-"immortality... Battle the undead hordes of a foul necromancer as he marches "
-"upon your capital... Lead a daring group of survivors across the blazing "
-"sands to a final confrontation with an unseen evil... The choice is up to "
-"you.\n"
-msgstr ""
-"The Battle for Wesnoth はハイファンタジーをテーマとしたターン制戦略ゲームであり、オープンソースソフトウェアです。Weldyn "
-"の平原、Wesmere の森、Knalga の炭鉱、天を貫く中心山脈など、広大な土地と、数世紀にも渡る Wesnoth "
-"王国の歴史が物語の舞台です！リッチ・ロードの軍勢から逃れ、海を越えた新天地を目指す...、炎の宝石を求めて、地下深くを探索する...、邪悪な女王から王位を取り返すため、大胆な冒険に向かう...、村を侵略するオークに復讐し、永遠の命を求める...、首都に攻め込む、愚かな降霊術士と戦う...、灼熱の砂漠で生存者たちを導き、未知なる邪悪と対決する...。数多くの冒険があなたを待っています。\n"
+msgid "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. From the plains of Weldyn to the forests of Wesmere, from the mines of Knalga to the soaring peaks of the Heart Mountains, take part in over a dozen adventures spanning centuries! Play as a young prince as he flees the encroaching forces of the Lich Lords to a new home across the sea... Delve into the blackest depths of the earth to craft a jewel of fire itself... Travel the continent in a daring quest to reclaim your rightful throne from a usurping queen... Step into the shoes of a young mage, his village beset by orcish invasion, as he seeks vengeance and immortality... Battle the undead hordes of a foul necromancer as he marches upon your capital... Lead a daring group of survivors across the blazing sands to a final confrontation with an unseen evil... The choice is up to you.\n"
+msgstr "The Battle for Wesnoth はハイファンタジーをテーマとしたターン制戦略ゲームであり、オープンソースソフトウェアです。Weldyn の平原、Wesmere の森、Knalga の炭鉱、天を貫く中心山脈など、広大な土地と、数世紀にも渡る Wesnoth 王国の歴史が物語の舞台です！リッチ・ロードの軍勢から逃れ、海を越えた新天地を目指す...、炎の宝石を求めて、地下深くを探索する...、邪悪な女王から王位を取り返すため、大胆な冒険に向かう...、村を侵略するオークに復讐し、永遠の命を求める...、首都に攻め込む、愚かな降霊術士と戦う...、灼熱の砂漠で生存者たちを導き、未知なる邪悪と対決する...。数多くの冒険があなたを待っています。\n"
 
 #. type: Plain text
 #: app_metadata.txt:11
 #, no-wrap
-msgid ""
-"Then take the battle online! Choose from seven fully-balanced factions and "
-"duke it out with your friends in over 50 multiplayer maps for parties of all"
-" sizes!\n"
-msgstr ""
-"オンライン対戦も可能です！バランス調整が施された7つの陣営から1つ選び、友達を打ち倒しましょう！プレイ人数の異なる、50以上のマルチプレイヤーマップで遊びましょう！\n"
+msgid "Then take the battle online! Choose from seven fully-balanced factions and duke it out with your friends in over 50 multiplayer maps for parties of all sizes!\n"
+msgstr "オンライン対戦も可能です！バランス調整が施された7つの陣営から1つ選び、友達を打ち倒しましょう！プレイ人数の異なる、50以上のマルチプレイヤーマップで遊びましょう！\n"
 
 #. type: Plain text
 #: app_metadata.txt:13
 #, no-wrap
-msgid ""
-"Explore hundreds of creative community-made campaigns, maps, and factions "
-"for both single and multiplayer, and try your hand at crafting your own! "
-"Wesnoth features a built-in map editor, a highly moddable engine, a simple "
-"and intuitive scripting language, and a friendly and dedicated modding "
-"community. There's no telling what adventures you'll bring to life!\n"
-msgstr ""
-"他のユーザが制作した、数百ものキャンペーン、マップ、党派で遊びましょう。当然、自分で制作することも可能です！Wesnothにはマップエディタ、いじりがいのあるエンジン、シンプルで直観的なスクリプト言語が組み込まれています。また、親しみやすく活発なコミュニティが、数多くのコンテンツを制作しています。予想もできないような、ワクワクがあなたを待っています。\n"
+msgid "Explore hundreds of creative community-made campaigns, maps, and factions for both single and multiplayer, and try your hand at crafting your own! Wesnoth features a built-in map editor, a highly moddable engine, a simple and intuitive scripting language, and a friendly and dedicated modding community. There's no telling what adventures you'll bring to life!\n"
+msgstr "他のユーザが制作した、数百ものキャンペーン、マップ、党派で遊びましょう。当然、自分で制作することも可能です！Wesnothにはマップエディタ、いじりがいのあるエンジン、シンプルで直観的なスクリプト言語が組み込まれています。また、親しみやすく活発なコミュニティが、数多くのコンテンツを制作しています。予想もできないような、ワクワクがあなたを待っています。\n"
 
 #. type: Plain text
 #: app_metadata.txt:16
@@ -109,8 +77,9 @@ msgstr "Windows 7 SP1 以降\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
-#, no-wrap
-msgid "OS X 10.11 or later\n"
+#, fuzzy, no-wrap
+#| msgid "OS X 10.11 or later\n"
+msgid "OS X 10.12 or later\n"
 msgstr "OS X 10.11 以降\n"
 
 #. type: Plain text
