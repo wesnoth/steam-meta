@@ -1,12 +1,12 @@
 # Martin Hrubý <hrubymar10@gmail.com>, 2018 - 2019.
-# Michal Žejdl <lachim@emer.cz>, 2020 - 2021.
+# Michal Žejdl <lachim@emer.cz>, 2020 - 2021, 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-02 12:47-0500\n"
-"PO-Revision-Date: 2021-10-25 22:07+0200\n"
+"PO-Revision-Date: 2024-04-17 22:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -65,15 +65,13 @@ msgstr "#### VERZE OPERAČNÍHO SYSTÉMU ####\n"
 
 #. type: Plain text
 #: app_metadata.txt:20 app_metadata.txt:46
-#, fuzzy, no-wrap
-#| msgid "Windows 7 SP1 or later\n"
+#, no-wrap
 msgid "Windows 10 1903 or later\n"
 msgstr "Windows 10 1903 nebo novější\n"
 
 #. type: Plain text
 #: app_metadata.txt:22
-#, fuzzy, no-wrap
-#| msgid "OS X 10.11 or later\n"
+#, no-wrap
 msgid "OS X 10.12 or later\n"
 msgstr "OS X 10.12 nebo novější\n"
 
@@ -133,8 +131,7 @@ msgstr "macOS 10.15 nebo novější\n"
 
 #. type: Plain text
 #: app_metadata.txt:50
-#, fuzzy, no-wrap
-#| msgid "Ubuntu 20.04 or compatible\n"
+#, no-wrap
 msgid "Ubuntu 22.04 or compatible\n"
 msgstr "Ubuntu 22.04 nebo kompatibilní\n"
 
@@ -149,11 +146,3 @@ msgstr "Dual-core 3.2 GHz nebo lepší\n"
 #, no-wrap
 msgid "######## LEGAL INFORMATION ########\n"
 msgstr "######## PRÁVNÍ INFORMACE ########\n"
-
-#, no-wrap
-#~ msgid "Ubuntu 16.04 or compatible\n"
-#~ msgstr "Ubuntu 16.04 nebo kompatibilní\n"
-
-#, no-wrap
-#~ msgid "Windows 10\n"
-#~ msgstr "Windows 10\n"
